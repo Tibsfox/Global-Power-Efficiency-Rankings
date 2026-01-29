@@ -4638,6 +4638,25 @@
                             <li><a href="https://www.aesp.org/" target="_blank">Association of Energy Services Professionals evaluation resources (membership $295/year)</a></li>
                         </ul>
                         <p><strong>Timeline:</strong> 4-6 months learning statistical M&V and meter data analysis while leveraging existing building science expertise.</p>
+
+                        <p><strong>AI Learning Prompt Example:</strong></p>
+                        <div class="prompt-example" style="background: var(--bg-card); padding: 1rem; border-radius: 0.4rem; margin: 0.5rem 0 1rem 0; border-left: 3px solid var(--accent-purple); font-size: 0.85rem;">
+                            <p style="font-style: italic; color: var(--text-secondary); margin: 0; line-height: 1.6;">"As a building performance analyst transitioning to energy program evaluation, conduct a technical skill gap assessment comparing my current expertise to evaluator requirements. My background includes: energy modeling (EnergyPlus, eQuest), ASHRAE Level 2 audits, ENERGY STAR benchmarking, and building commissioning basics. Target role: Energy Program Evaluator at a utility or third-party evaluation firm conducting M&V (Measurement & Verification) for residential and commercial efficiency programs. Analyze: (1) Which building science skills transfer directly to M&V work—understanding baseline periods (pre-retrofit energy use), reporting periods (post-retrofit energy use), and adjusted savings calculations, (2) Critical gaps in statistical methods I need to fill (regression modeling, CalTRACK protocols, weather normalization, uncertainty quantification), (3) How my building modeling experience translates to interpreting meter-based M&V results, (4) What I should learn first to demonstrate M&V readiness in interviews. Prioritize by importance for IPMVP (International Performance Measurement & Verification Protocol) compliance work."</p>
+                        </div>
+                        <p style="font-size: 0.85rem; color: var(--text-secondary); margin: 0.5rem 0 1rem 0;"><em>This skill gap assessment helps building analysts identify high-leverage learning areas for M&V transition. IPMVP is the industry standard protocol; CalTRACK is an open-source implementation widely used in California. Many building analysts underestimate how much their systems knowledge transfers to interpreting savings results. Follow up: "What specific Python libraries and statistical techniques should I prioritize for CalTRACK-compliant meter analysis?"</em></p>
+
+                        <p><strong>Project Portfolio Ideas:</strong></p>
+                        <ul style="margin-bottom: 1rem;">
+                            <li style="margin-bottom: 0.75rem; color: var(--text-secondary); font-size: 0.85rem;">
+                                <strong style="color: var(--text-primary);">Beginner:</strong> Analyze a residential retrofit using OpenEEmeter with Green Button meter data—calculate baseline model fit (R-squared), weather-normalized savings, and confidence intervals. Document your methodology following IPMVP Option C (whole-building metered data) guidelines. <em>Deliverable: M&V analysis report with methodology documentation. Time: 15-25 hours.</em>
+                            </li>
+                            <li style="margin-bottom: 0.75rem; color: var(--text-secondary); font-size: 0.85rem;">
+                                <strong style="color: var(--text-primary);">Intermediate:</strong> Build a portfolio-level savings verification analysis using publicly available utility program evaluation data from your state PUC. Aggregate individual building results, calculate portfolio uncertainty, and compare reported vs. verified savings using statistical sampling methods. <em>Deliverable: Portfolio M&V summary with statistical methodology. Time: 30-50 hours.</em>
+                            </li>
+                            <li style="margin-bottom: 0; color: var(--text-secondary); font-size: 0.85rem;">
+                                <strong style="color: var(--text-primary);">Proficient:</strong> Develop an automated M&V pipeline that ingests smart meter data, applies CalTRACK-compliant methods, and generates regulatory-ready reports. Include weather normalization, outlier detection, and uncertainty quantification. <em>Deliverable: Python-based M&V tool with documentation suitable for evaluation firm demonstration. Time: 50-80 hours.</em>
+                            </li>
+                        </ul>
                     </div>
                     <div class="career-path">
                         <div class="career-header"><strong>Data Scientist → Energy Analyst (Evaluation Focus)</strong></div>
@@ -4650,6 +4669,25 @@
                             <li><a href="https://caltrack.org/" target="_blank">CalTRACK Methods Documentation (free)</a></li>
                         </ul>
                         <p><strong>Timeline:</strong> 2-4 months learning energy M&V domain while applying existing ML and statistics skills to meter data analysis.</p>
+
+                        <p><strong>AI Learning Prompt Example:</strong></p>
+                        <div class="prompt-example" style="background: var(--bg-card); padding: 1rem; border-radius: 0.4rem; margin: 0.5rem 0 1rem 0; border-left: 3px solid var(--accent-purple); font-size: 0.85rem;">
+                            <p style="font-style: italic; color: var(--text-secondary); margin: 0; line-height: 1.6;">"I'm a data scientist supporting an evaluation team analyzing a commercial HVAC rebate program's verified savings. The evaluation uses CalTRACK methods with 15-minute interval smart meter data from 500 participating buildings. Stakeholders include: the utility program manager (needs cost-effectiveness results for budget justification), PUC staff (requires statistical rigor for regulatory approval), and program implementers (want actionable insights for measure targeting). Help me understand: (1) How to present NTG (net-to-gross) ratio results to each stakeholder—the utility cares about claimed vs. verified savings, the PUC about free-ridership and spillover methodology, implementers about which measures over/underperform, (2) What technical M&V issues are likely to be questioned (baseline model specifications, weather normalization, outlier treatment, uncertainty bounds), (3) How to frame savings attribution given IPMVP Option C limitations for isolating individual measure impacts, (4) What visualizations work best for technical vs. executive audiences. My [machine learning / statistics / data visualization] background is strong; I need to develop stakeholder communication skills for utility regulatory work."</p>
+                        </div>
+                        <p style="font-size: 0.85rem; color: var(--text-secondary); margin: 0.5rem 0 1rem 0;"><em>Utility program evaluation involves translating technical M&V results for diverse audiences. NTG (net-to-gross) ratios adjust gross savings for free-riders (who would have acted anyway) and spillover (additional actions taken due to program influence)—a key contested issue in regulatory filings. Follow up: "How should I document model assumptions in a way that satisfies both statistical reviewers and non-technical program staff?"</em></p>
+
+                        <p><strong>Project Portfolio Ideas:</strong></p>
+                        <ul style="margin-bottom: 1rem;">
+                            <li style="margin-bottom: 0.75rem; color: var(--text-secondary); font-size: 0.85rem;">
+                                <strong style="color: var(--text-primary);">Beginner:</strong> Analyze publicly available utility M&V reports from your state PUC to understand how evaluators present statistical results to regulators. Document common visualization approaches, uncertainty reporting formats, and stakeholder-specific narrative structures. <em>Deliverable: Stakeholder communication analysis with example templates. Time: 15-25 hours.</em>
+                            </li>
+                            <li style="margin-bottom: 0.75rem; color: var(--text-secondary); font-size: 0.85rem;">
+                                <strong style="color: var(--text-primary);">Intermediate:</strong> Build a CalTRACK-compliant savings analysis pipeline using OpenEEmeter, then create multi-audience reporting outputs (executive dashboard, technical appendix, regulatory narrative) from the same underlying analysis. <em>Deliverable: Python notebook with stakeholder-specific visualization outputs. Time: 30-50 hours.</em>
+                            </li>
+                            <li style="margin-bottom: 0; color: var(--text-secondary); font-size: 0.85rem;">
+                                <strong style="color: var(--text-primary);">Proficient:</strong> Develop an interactive M&V results dashboard that enables non-technical users to explore verified savings by building segment, measure type, and time period while maintaining statistical rigor in underlying calculations. <em>Deliverable: Streamlit/Dash application with documentation suitable for utility demonstration. Time: 50-80 hours.</em>
+                            </li>
+                        </ul>
                     </div>
                     <div class="career-path">
                         <div class="career-header"><strong>Engineer (Oil & Gas) → Energy Efficiency Consultant</strong></div>
@@ -4663,6 +4701,25 @@
                             <li><a href="https://www.progressiverecruitment.com/en-us/knowledge-hub/career-advice/transitioning-your-career-from-oil-gas-to-renewable-energy/" target="_blank">Oil & Gas to Clean Energy Transition Guide (free)</a></li>
                         </ul>
                         <p><strong>Timeline:</strong> 6-9 months for building systems knowledge and BPI/ASHRAE credentials while applying engineering and economics expertise.</p>
+
+                        <p><strong>AI Learning Prompt Example:</strong></p>
+                        <div class="prompt-example" style="background: var(--bg-card); padding: 1rem; border-radius: 0.4rem; margin: 0.5rem 0 1rem 0; border-left: 3px solid var(--accent-purple); font-size: 0.85rem;">
+                            <p style="font-style: italic; color: var(--text-secondary); margin: 0; line-height: 1.6;">"I'm an oil & gas engineer considering the BPI Building Analyst certification and potentially CEM (Certified Energy Manager) to strengthen my candidacy for energy efficiency consulting roles. BPI Building Analyst costs $500-800 for exams; CEM costs $500 plus requires 3-5 years energy experience. Help me: (1) Assess which credential makes more sense given my O&G engineering background—BPI emphasizes building diagnostics and field work, CEM emphasizes energy management and facility operations, (2) Identify financial assistance options: Are there state workforce development grants for displaced O&G workers pursuing clean energy credentials? Do consulting firms reimburse certification costs during hiring? Are there AEE (Association of Energy Engineers) chapter scholarships or payment plans? (3) Research what employer reimbursement programs exist—suggest search terms like 'energy efficiency workforce training grants [my state]' and organizations to contact (state energy office, workforce development boards, utility workforce programs), (4) Create a study plan using free resources if I pursue BPI first while building toward CEM. I want to understand both the credential value AND funding pathways before committing $1,000+ out-of-pocket."</p>
+                        </div>
+                        <p style="font-size: 0.85rem; color: var(--text-secondary); margin: 0.5rem 0 1rem 0;"><em>Professional certifications accelerate energy efficiency careers but costs add up ($500-$1,500 for major credentials). Many O&G workers don't know that state workforce grants, employer reimbursement, and professional association scholarships exist. BPI has workforce development partnerships through DOE weatherization programs; AEE offers CEM scholarships; and many states have clean energy workforce training funds specifically for fossil fuel workers transitioning. Follow up: "Draft an email I could send to my state energy office asking about workforce training grants for O&G workers pursuing building performance credentials."</em></p>
+
+                        <p><strong>Project Portfolio Ideas:</strong></p>
+                        <ul style="margin-bottom: 1rem;">
+                            <li style="margin-bottom: 0.75rem; color: var(--text-secondary); font-size: 0.85rem;">
+                                <strong style="color: var(--text-primary);">Beginner:</strong> Complete a building energy audit of your own home or a friend's property using BPI Building Analyst methodology, documenting air leakage, insulation levels, HVAC efficiency, and priority upgrade recommendations with estimated savings. <em>Deliverable: Residential audit report following BPI format. Time: 15-25 hours.</em>
+                            </li>
+                            <li style="margin-bottom: 0.75rem; color: var(--text-secondary); font-size: 0.85rem;">
+                                <strong style="color: var(--text-primary);">Intermediate:</strong> Develop a cost-effectiveness analysis comparing three efficiency measures (HVAC upgrade, insulation, air sealing) for a building type common in your region, applying Total Resource Cost (TRC) test methodology used in utility program evaluation. <em>Deliverable: Measure comparison with TRC calculations and sensitivity analysis. Time: 30-50 hours.</em>
+                            </li>
+                            <li style="margin-bottom: 0; color: var(--text-secondary); font-size: 0.85rem;">
+                                <strong style="color: var(--text-primary);">Proficient:</strong> Design a commercial building efficiency program targeting a specific sector (offices, retail, restaurants), including measure eligibility criteria, incentive levels, cost-effectiveness screening, and M&V approach using IPMVP Option C. <em>Deliverable: Program design document suitable for utility or consulting firm interview. Time: 50-80 hours.</em>
+                            </li>
+                        </ul>
                     </div>
                     <div class="career-path">
                         <div class="career-header"><strong>Academic Researcher → Utility Program Evaluation Lead</strong></div>
@@ -4675,6 +4732,25 @@
                             <li><a href="https://emp.lbl.gov/publications/state-efficiency-program-evaluation" target="_blank">Lawrence Berkeley Lab Evaluation Guides (free)</a></li>
                         </ul>
                         <p><strong>Timeline:</strong> 3-6 months learning utility industry and regulatory context while leveraging strong research design and statistics background.</p>
+
+                        <p><strong>AI Learning Prompt Example:</strong></p>
+                        <div class="prompt-example" style="background: var(--bg-card); padding: 1rem; border-radius: 0.4rem; margin: 0.5rem 0 1rem 0; border-left: 3px solid var(--accent-purple); font-size: 0.85rem;">
+                            <p style="font-style: italic; color: var(--text-secondary); margin: 0; line-height: 1.6;">"I need to analyze my state PUC's energy efficiency program evaluation guidelines to understand methodological requirements for utility program impact assessments. The regulatory framework references the Uniform Methods Project (UMP), requires net-to-gross (NTG) adjustments, and specifies cost-effectiveness testing using the Total Resource Cost (TRC) test and Program Administrator Cost (PAC) test. Help me create a structured analysis covering: (1) Key evaluation requirements—what methodologies are mandated vs. recommended for different program types (deemed savings, custom projects, behavioral programs), (2) NTG adjustment protocols—how free-ridership and spillover are measured and what default values apply, (3) Cost-effectiveness testing thresholds—what TRC and PAC ratios are required for program approval and how avoided costs are calculated, (4) Reporting timelines and deliverables—what evaluators must submit and when. I'm transitioning from [academic research / public policy / statistics] and need to understand how my research design skills apply to regulatory-mandated evaluation work."</p>
+                        </div>
+                        <p style="font-size: 0.85rem; color: var(--text-secondary); margin: 0.5rem 0 1rem 0;"><em>PUC evaluation guidelines define the playing field for utility program verification. The Uniform Methods Project (UMP) provides standardized protocols for calculating energy savings; TRC (Total Resource Cost) test measures whether program benefits exceed costs from a societal perspective; PAC (Program Administrator Cost) test focuses on utility costs only. Academic researchers often underestimate how much their methodological rigor transfers—you understand experimental design better than most practitioners. Follow up: "What are the key differences between academic program evaluation and utility regulatory evaluation in terms of statistical standards and stakeholder expectations?"</em></p>
+
+                        <p><strong>Project Portfolio Ideas:</strong></p>
+                        <ul style="margin-bottom: 1rem;">
+                            <li style="margin-bottom: 0.75rem; color: var(--text-secondary); font-size: 0.85rem;">
+                                <strong style="color: var(--text-primary);">Beginner:</strong> Analyze a completed utility program evaluation report from your state PUC docket system, documenting how evaluators addressed sampling methodology, NTG adjustments, and cost-effectiveness calculations. Identify methodological strengths and potential improvements. <em>Deliverable: Evaluation methodology critique with academic perspective. Time: 15-25 hours.</em>
+                            </li>
+                            <li style="margin-bottom: 0.75rem; color: var(--text-secondary); font-size: 0.85rem;">
+                                <strong style="color: var(--text-primary);">Intermediate:</strong> Design an impact evaluation framework for a residential weatherization program, specifying comparison group selection, regression model specifications, and uncertainty quantification approaches that satisfy both academic standards and PUC requirements. <em>Deliverable: Evaluation design document with statistical methodology appendix. Time: 30-50 hours.</em>
+                            </li>
+                            <li style="margin-bottom: 0; color: var(--text-secondary); font-size: 0.85rem;">
+                                <strong style="color: var(--text-primary);">Proficient:</strong> Develop a replicable NTG estimation methodology for behavioral programs (e.g., home energy reports) using self-report surveys and billing analysis, addressing the methodological challenges that make behavioral program attribution contentious in regulatory proceedings. <em>Deliverable: NTG methodology paper suitable for AESP conference submission or evaluation firm demonstration. Time: 50-80 hours.</em>
+                            </li>
+                        </ul>
                     </div>
                     <div class="career-path">
                         <div class="career-header"><strong>Sustainability Manager → Energy Program Manager (Utility)</strong></div>
@@ -4687,6 +4763,25 @@
                             <li><a href="https://betterbuildingssolutioncenter.energy.gov/" target="_blank">DOE Better Buildings Solution Center (free)</a></li>
                         </ul>
                         <p><strong>Timeline:</strong> 4-6 months learning utility-specific program administration and regulatory frameworks while applying existing sustainability and program management skills.</p>
+
+                        <p><strong>AI Learning Prompt Example:</strong></p>
+                        <div class="prompt-example" style="background: var(--bg-card); padding: 1rem; border-radius: 0.4rem; margin: 0.5rem 0 1rem 0; border-left: 3px solid var(--accent-purple); font-size: 0.85rem;">
+                            <p style="font-style: italic; color: var(--text-secondary); margin: 0; line-height: 1.6;">"Map a 5-year career roadmap from Energy Program Manager at an investor-owned utility (IOU) to Senior Manager overseeing portfolio-wide efficiency programs. I have [corporate sustainability / GHG accounting / program management] background. For each career milestone—Year 1-2: Program Manager (single program), Year 3-4: Senior Program Manager (multiple programs), Year 5+: Portfolio Manager (all residential or commercial programs)—identify: (1) Core competencies to develop (cost-effectiveness testing using TRC/PAC tests, M&V protocol oversight, regulatory filing preparation, vendor management, budget development), (2) Types of programs I should seek responsibility for at each level (prescriptive rebates, custom projects, behavioral programs, emerging technology), (3) Professional development priorities (AESP conferences, CEM certification, NARUC/state PUC workshops), (4) How to demonstrate readiness for promotion—what portfolio metrics and regulatory outcomes matter most. Focus on skills that transfer across utilities and utility types (IOU, municipal, cooperative) rather than company-specific knowledge."</p>
+                        </div>
+                        <p style="font-size: 0.85rem; color: var(--text-secondary); margin: 0.5rem 0 1rem 0;"><em>Utility program management follows structured advancement from single programs to portfolio oversight. IOUs (investor-owned utilities) are regulated by state PUCs and must demonstrate cost-effectiveness in regulatory filings; municipals and cooperatives have different governance but similar program management needs. CEM (Certified Energy Manager) is widely recognized for utility program roles—the Association of Energy Engineers offers scholarships, and many utilities reimburse certification costs for employees. Follow up: "What specific portfolio metrics (cost per kWh saved, participation rates, verified savings ratios) should I track to demonstrate readiness for senior program management roles?"</em></p>
+
+                        <p><strong>Project Portfolio Ideas:</strong></p>
+                        <ul style="margin-bottom: 1rem;">
+                            <li style="margin-bottom: 0.75rem; color: var(--text-secondary); font-size: 0.85rem;">
+                                <strong style="color: var(--text-primary);">Beginner:</strong> Analyze your utility's (or a publicly documented utility's) efficiency program portfolio using annual reports and PUC filings. Document program types, participation levels, cost-effectiveness results, and identify gaps or opportunities for improvement. <em>Deliverable: Portfolio assessment with recommendations. Time: 15-25 hours.</em>
+                            </li>
+                            <li style="margin-bottom: 0.75rem; color: var(--text-secondary); font-size: 0.85rem;">
+                                <strong style="color: var(--text-primary);">Intermediate:</strong> Design a new efficiency program targeting a customer segment with low participation (e.g., small businesses, multifamily renters), including eligibility criteria, incentive levels, marketing approach, and cost-effectiveness projections using TRC test methodology. <em>Deliverable: Program design document with cost-effectiveness analysis. Time: 30-50 hours.</em>
+                            </li>
+                            <li style="margin-bottom: 0; color: var(--text-secondary); font-size: 0.85rem;">
+                                <strong style="color: var(--text-primary);">Proficient:</strong> Develop a portfolio optimization analysis comparing resource allocation across program types (residential vs. commercial, prescriptive vs. custom) to maximize savings per dollar spent while meeting regulatory equity requirements for low-income and disadvantaged community participation. <em>Deliverable: Portfolio optimization model with regulatory compliance analysis. Time: 50-80 hours.</em>
+                            </li>
+                        </ul>
                     </div>
                 </div>
 
@@ -5095,6 +5190,25 @@
                             <li><a href="https://www.solarabcs.org/about/publications/reports/expedited-permit/index.html" target="_blank">Solar ABCs Expedited Permit Process Guide (free)</a></li>
                         </ul>
                         <p><strong>Timeline:</strong> 3-4 months learning renewable project characteristics and grid interconnection basics while applying planning expertise.</p>
+
+                        <p><strong>AI Learning Prompt Example:</strong></p>
+                        <div class="prompt-example" style="background: var(--bg-card); padding: 1rem; border-radius: 0.4rem; margin: 0.5rem 0 1rem 0; border-left: 3px solid var(--accent-purple); font-size: 0.85rem;">
+                            <p style="font-style: italic; color: var(--text-secondary); margin: 0; line-height: 1.6;">"Help me create a 3-year career milestone roadmap for transitioning from urban planning to clean energy permitting specialist. My background: [X years] in municipal planning working on [zoning/land use/development review]. I understand how local permit review works but need to learn renewable energy specifics. Map out key milestones for: (1) Year 1: What foundational knowledge should I build about solar/wind project types, setback requirements, and local ordinance development for renewables? (2) Year 2: What intermediate skills would make me competitive for permitting coordinator roles - grid interconnection basics, community benefit agreement (CBA) negotiation, or multi-jurisdictional coordination? (3) Year 3: What advanced expertise positions me for senior specialist or management roles - perhaps state-level permitting policy or developer-side project management? Include specific certifications or training that would accelerate each phase."</p>
+                        </div>
+                        <p style="font-size: 0.85rem; color: var(--text-secondary); margin: 0.5rem 0 1rem 0;"><em>This Career Milestone Roadmap prompt helps you plan progression from entry-level permitting work to senior specialist roles. Clean energy permitting sits at the intersection of planning, engineering, and environmental review - your land use background provides foundation for understanding local approval processes. Community benefit agreement (CBA): contracts between developers and communities specifying local hiring, payments, or other benefits in exchange for project approval. Follow up: "What specific certifications (like AICP, LEED AP, or Solar Energy International training) would be most valuable at each career stage, and how can AI help me prepare for certification exams?"</em></p>
+
+                        <p><strong>Project Portfolio Ideas:</strong></p>
+                        <ul style="margin-bottom: 1rem;">
+                            <li style="margin-bottom: 0.75rem; color: var(--text-secondary); font-size: 0.85rem;">
+                                <strong style="color: var(--text-primary);">Beginner:</strong> Research solar and wind permitting requirements across 10 municipalities in your region using DSIRE and local code websites. Compare permit types required, fees, processing timelines, and setback requirements. Identify "solar-friendly" vs. "high-barrier" jurisdictions. <em>Deliverable: Local solar permitting comparison guide with recommendations for streamlining. Time: 20-25 hours.</em>
+                            </li>
+                            <li style="margin-bottom: 0.75rem; color: var(--text-secondary); font-size: 0.85rem;">
+                                <strong style="color: var(--text-primary);">Intermediate:</strong> Develop a model solar ordinance for a jurisdiction without one, based on NREL and Solar ABCs best practices. Include setback requirements, height limits, screening provisions, and decommissioning requirements. Present to local planning commission or community group for feedback. <em>Deliverable: Draft ordinance with staff report and presentation materials. Time: 40-50 hours.</em>
+                            </li>
+                            <li style="margin-bottom: 0; color: var(--text-secondary); font-size: 0.85rem;">
+                                <strong style="color: var(--text-primary);">Proficient:</strong> Create a comprehensive permitting guide for a utility-scale solar project in your state covering all required federal, state, and local approvals. Map the complete approval pathway including building permits, environmental reviews, utility interconnection, and special use permits. Include timeline estimates and agency contacts. <em>Deliverable: Multi-jurisdictional permitting roadmap suitable for developer use. Time: 60-80 hours.</em>
+                            </li>
+                        </ul>
                     </div>
                     <div class="career-path">
                         <div class="career-header"><strong>Paralegal → Utility Regulatory Compliance Analyst</strong></div>
