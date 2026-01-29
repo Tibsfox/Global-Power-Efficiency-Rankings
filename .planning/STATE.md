@@ -5,16 +5,16 @@
 See: .planning/PROJECT.md (updated 2026-01-29)
 
 **Core value:** Demonstrate practical, replicable ways that real people use AI tools to solve energy efficiency problems—with citable examples, actionable projects, and career pathways
-**Current focus:** Milestone complete — planning next milestone
+**Current focus:** v1.2 Learning Paths — researching patterns
 
 ## Current Position
 
-Phase: Complete (v1.1 shipped)
-Plan: N/A
-Status: Milestone archived
-Last activity: 2026-01-29 — v1.1 milestone complete
+Phase: Not started (researching)
+Plan: —
+Status: Researching learning path patterns
+Last activity: 2026-01-29 — Milestone v1.2 started
 
-Progress: [██████████] 100%
+Progress: [░░░░░░░░░░] 0%
 
 ## Performance Metrics
 

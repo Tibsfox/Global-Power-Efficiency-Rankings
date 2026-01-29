@@ -23,6 +23,15 @@ The report now includes:
 
 **Tech stack:** Static HTML, embedded CSS, Chart.js for visualizations
 
+## Current Milestone: v1.2 Learning Paths
+
+**Goal:** Add personalized learning paths with AI prompts and self-study resources to all 125 career transition pathways
+
+**Target features:**
+- Example AI prompts for building lesson plans/study guides tailored to each career transition
+- Self-study resource recommendations varied across pathways
+- Diverse presentation styles to avoid repetition across 125 pathways
+
 ## Requirements
 
 ### Validated
@@ -42,7 +51,9 @@ The report now includes:
 
 ### Active
 
-(None currently — milestone complete)
+- [ ] Learning path sections for all 125 career transition pathways
+- [ ] AI prompt examples for self-directed learning
+- [ ] Varied presentation styles across organizational levels
 
 ### Out of Scope
 
@@ -83,4 +94,4 @@ Each card includes 3 case studies, DIY/commercial project ideas, and 5 career tr
 - **Resources**: Prioritize free, accessible learning materials
 
 ---
-*Last updated: 2026-01-29 after v1.1 milestone*
+*Last updated: 2026-01-29 after v1.2 milestone started*
