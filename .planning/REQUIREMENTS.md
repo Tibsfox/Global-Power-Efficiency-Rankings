@@ -48,9 +48,9 @@ Requirements for Learning Paths milestone. Each maps to roadmap phases.
 
 ### Global Level (25 pathways)
 
-- [ ] **GLO-01**: 5 cards x 5 pathways with learning path sections
-- [ ] **GLO-02**: Emphasis on international frameworks and cross-border collaboration
-- [ ] **GLO-03**: Multi-stakeholder and diplomatic skill integration
+- [x] **GLO-01**: 5 cards x 5 pathways with learning path sections
+- [x] **GLO-02**: Emphasis on international frameworks and cross-border collaboration
+- [x] **GLO-03**: Multi-stakeholder and diplomatic skill integration
 
 ### Quality Assurance
 
@@ -109,9 +109,9 @@ Deferred to v1.3+:
 | NAT-01 | 9 | Complete |
 | NAT-02 | 9 | Complete |
 | NAT-03 | 9 | Complete |
-| GLO-01 | 10 | Pending |
-| GLO-02 | 10 | Pending |
-| GLO-03 | 10 | Pending |
+| GLO-01 | 10 | Complete |
+| GLO-02 | 10 | Complete |
+| GLO-03 | 10 | Complete |
 | QA-01 | 11 | Pending |
 | QA-02 | 11 | Pending |
 | QA-03 | 11 | Pending |
