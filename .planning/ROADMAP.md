@@ -73,10 +73,10 @@ Plans:
   2. Each card shows project ideas for national energy agencies and large utilities
   3. Each card presents 5 career transition suggestions for national energy policy and infrastructure roles
   4. New cards (National Load Forecasting, Infrastructure Predictive Maintenance) integrate with existing 3 cards
-**Plans**: TBD
+**Plans**: 1 plan
 
 Plans:
-- [ ] 04-01: Implement National-level cards with all content types
+- [ ] 04-01-PLAN.md - Implement National-level cards with all content types (5 cards, 15 case studies, 25 career paths)
 
 ### Phase 5: Global Level
 **Goal**: Readers can explore 5 AI applications for international energy coordination, each with real-world examples, actionable projects, and career pathways, with all content validated
