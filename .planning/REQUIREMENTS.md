@@ -10,19 +10,19 @@ Requirements for this milestone. Each maps to roadmap phases.
 ### Individual Level (5 cards)
 
 **Existing Cards:**
-- [ ] **IND-01**: Add 3 case studies to AI-Powered Energy Monitoring card
-- [ ] **IND-02**: Add 3 case studies to Smart Home AI Optimization card
-- [ ] **IND-03**: Add 3 case studies to AI-Powered Carbon Tracking card
+- [x] **IND-01**: Add 3 case studies to AI-Powered Energy Monitoring card
+- [x] **IND-02**: Add 3 case studies to Smart Home AI Optimization card
+- [x] **IND-03**: Add 3 case studies to AI-Powered Carbon Tracking card
 
 **New Cards:**
-- [ ] **IND-04**: Create AI-Optimized EV Smart Charging card with 3 case studies
-- [ ] **IND-05**: Create AI-Powered HVAC Predictive Maintenance card with 3 case studies
+- [x] **IND-04**: Create AI-Optimized EV Smart Charging card with 3 case studies
+- [x] **IND-05**: Create AI-Powered HVAC Predictive Maintenance card with 3 case studies
 
 **Project Ideas:**
-- [ ] **IND-P1**: Add DIY + commercial project ideas to all 5 Individual cards
+- [x] **IND-P1**: Add DIY + commercial project ideas to all 5 Individual cards
 
 **Career Transition:**
-- [ ] **IND-C1**: Add 5 career transition suggestions with resources to all 5 Individual cards
+- [x] **IND-C1**: Add 5 career transition suggestions with resources to all 5 Individual cards
 
 ### Community Level (5 cards)
 
@@ -94,9 +94,9 @@ Requirements for this milestone. Each maps to roadmap phases.
 
 ### Integration & Quality
 
-- [ ] **INT-01**: Create CSS structure for case study sections
-- [ ] **INT-02**: Create CSS structure for project ideas sections
-- [ ] **INT-03**: Create CSS structure for career transition sections
+- [x] **INT-01**: Create CSS structure for case study sections
+- [x] **INT-02**: Create CSS structure for project ideas sections
+- [x] **INT-03**: Create CSS structure for career transition sections
 - [ ] **INT-04**: Ensure all 75 source URLs are valid and accessible
 - [ ] **INT-05**: Ensure all career resource URLs are valid and vetted
 - [ ] **INT-06**: Maintain consistent formatting across all 25 cards
@@ -175,16 +175,16 @@ Each card gets 5 suggestions:
 
 | Requirement | Phase | Status |
 |-------------|-------|--------|
-| IND-01 | Phase 1 | Pending |
-| IND-02 | Phase 1 | Pending |
-| IND-03 | Phase 1 | Pending |
-| IND-04 | Phase 1 | Pending |
-| IND-05 | Phase 1 | Pending |
-| IND-P1 | Phase 1 | Pending |
-| IND-C1 | Phase 1 | Pending |
-| INT-01 | Phase 1 | Pending |
-| INT-02 | Phase 1 | Pending |
-| INT-03 | Phase 1 | Pending |
+| IND-01 | Phase 1 | Complete |
+| IND-02 | Phase 1 | Complete |
+| IND-03 | Phase 1 | Complete |
+| IND-04 | Phase 1 | Complete |
+| IND-05 | Phase 1 | Complete |
+| IND-P1 | Phase 1 | Complete |
+| IND-C1 | Phase 1 | Complete |
+| INT-01 | Phase 1 | Complete |
+| INT-02 | Phase 1 | Complete |
+| INT-03 | Phase 1 | Complete |
 | COM-01 | Phase 2 | Pending |
 | COM-02 | Phase 2 | Pending |
 | COM-03 | Phase 2 | Pending |
