@@ -30,11 +30,11 @@ Decimal phases appear between their surrounding integers in numeric order.
   3. Each card presents 5 career transition suggestions with domain-specific paths, transferable skills, and vetted resource links
   4. CSS classes for case-study, project-ideas, and career-suggestions sections render consistently
   5. New cards (EV Smart Charging, HVAC Predictive Maintenance) integrate seamlessly with existing 3 cards
-**Plans**: TBD
+**Plans**: 2 plans
 
 Plans:
-- [ ] 01-01: Create CSS structure for new content sections
-- [ ] 01-02: Implement Individual-level cards with all content types
+- [ ] 01-01-PLAN.md - Add CSS structure for case studies, project ideas, and career transitions
+- [ ] 01-02-PLAN.md - Implement Individual-level cards with all content types (5 cards, 15 case studies, 25 career paths)
 
 ### Phase 2: Community Level
 **Goal**: Readers can explore 5 AI applications for community-level energy efficiency, each with real-world examples, actionable projects, and career pathways
@@ -103,7 +103,7 @@ Phases execute in numeric order: 1 -> 2 -> 3 -> 4 -> 5
 
 | Phase | Plans Complete | Status | Completed |
 |-------|----------------|--------|-----------|
-| 1. Individual Level | 0/2 | Not started | - |
+| 1. Individual Level | 0/2 | Planned | - |
 | 2. Community Level | 0/1 | Not started | - |
 | 3. State/Regional Level | 0/1 | Not started | - |
 | 4. National Level | 0/1 | Not started | - |
