@@ -50,10 +50,14 @@ Plans:
   3. Learning content emphasizes connector and collaborative learning styles
   4. Prompt patterns and opening hooks vary from Phase 6 patterns and within phase
   5. Resources prioritize nonprofit, association, and community-accessible materials
-**Plans**: TBD
+**Plans**: 5 plans
 
 Plans:
-- [ ] 07-01: TBD
+- [ ] 07-01-PLAN.md — Add learning paths to AI Grant Writing section (5 pathways)
+- [ ] 07-02-PLAN.md — Add learning paths to AI Community Organizing section (5 pathways)
+- [ ] 07-03-PLAN.md — Add learning paths to AI Advocacy Data Analysis section (5 pathways)
+- [ ] 07-04-PLAN.md — Add learning paths to AI Building Benchmarking section (5 pathways)
+- [ ] 07-05-PLAN.md — Add learning paths to AI Energy Burden section (5 pathways)
 
 ### Phase 8: State/Regional Level
 **Goal**: Career changers at the State/Regional level can access AI prompts and projects integrating regulatory knowledge and professional certifications
@@ -121,7 +125,7 @@ Plans:
 | Phase | Milestone | Plans Complete | Status | Completed |
 |-------|-----------|----------------|--------|-----------|
 | 6. Individual Level | v1.2 | 5/5 | ✓ Complete | 2026-01-29 |
-| 7. Community Level | v1.2 | 0/TBD | Not started | - |
+| 7. Community Level | v1.2 | 0/5 | Planned | - |
 | 8. State/Regional Level | v1.2 | 0/TBD | Not started | - |
 | 9. National Level | v1.2 | 0/TBD | Not started | - |
 | 10. Global Level | v1.2 | 0/TBD | Not started | - |
