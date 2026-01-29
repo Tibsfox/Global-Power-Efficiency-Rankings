@@ -88,10 +88,14 @@ Plans:
   3. Federal program and institutional knowledge context integrated (DOE, national labs, etc.)
   4. Prompt patterns and presentation style distinctly authoritative/milestone-based
   5. Resources prioritize federal portals, DOE programs, and national laboratory materials
-**Plans**: TBD
+**Plans**: 5 plans
 
 Plans:
-- [ ] 09-01: TBD
+- [ ] 09-01-PLAN.md — Add learning paths to AI Integrated Energy System Planning section (5 pathways)
+- [ ] 09-02-PLAN.md — Add learning paths to AI International Benchmarking section (5 pathways)
+- [ ] 09-03-PLAN.md — Add learning paths to AI Climate Commitment Tracking section (5 pathways)
+- [ ] 09-04-PLAN.md — Add learning paths to AI National Load Forecasting section (5 pathways)
+- [ ] 09-05-PLAN.md — Add learning paths to AI Infrastructure Predictive Maintenance section (5 pathways)
 
 ### Phase 10: Global Level
 **Goal**: Career changers at the Global level can access AI prompts and projects for international frameworks and cross-border collaboration
@@ -131,7 +135,7 @@ Plans:
 | 6. Individual Level | v1.2 | 5/5 | ✓ Complete | 2026-01-29 |
 | 7. Community Level | v1.2 | 5/5 | ✓ Complete | 2026-01-29 |
 | 8. State/Regional Level | v1.2 | 5/5 | ✓ Complete | 2026-01-29 |
-| 9. National Level | v1.2 | 0/TBD | Not started | - |
+| 9. National Level | v1.2 | 0/5 | Planned | - |
 | 10. Global Level | v1.2 | 0/TBD | Not started | - |
 | 11. Quality Assurance | v1.2 | 0/TBD | Not started | - |
 
