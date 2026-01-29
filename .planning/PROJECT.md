@@ -2,78 +2,85 @@
 
 ## What This Is
 
-An interactive data visualization report presenting global energy efficiency analysis across 75 countries, with actionable strategies at Individual, Community, State/Regional, National, and Global organizational levels. The report includes AI tool sections that demonstrate how artificial intelligence can be applied to solve real-world energy efficiency problems at each level.
+An interactive data visualization report presenting global energy efficiency analysis across 75 countries, with actionable strategies at Individual, Community, State/Regional, National, and Global organizational levels. The report includes 25 AI strategy cards demonstrating practical applications with verified case studies, DIY/commercial project ideas, and career transition pathways.
 
 ## Core Value
 
-Demonstrate practical, replicable ways that real people and organizations are using AI tools right now to solve energy efficiency problems—making the abstract concrete with citable, verified examples.
+Demonstrate practical, replicable ways that real people and organizations are using AI tools right now to solve energy efficiency problems—making the abstract concrete with citable, verified examples that empower career transitions and skill development.
+
+## Current State (v1.1 shipped)
+
+**Shipped:** 2026-01-29
+
+The report now includes:
+- 25 AI strategy cards across 5 organizational levels
+- 75 verified case studies with specific organizations, metrics, and citations
+- 125 career transition pathways with free resource links
+- 75+ DIY and commercial project ideas
+- 287 validated external URLs (case studies + career resources)
+- Level-specific color schemes for visual hierarchy
+- Single HTML file: 6,491 lines
+
+**Tech stack:** Static HTML, embedded CSS, Chart.js for visualizations
 
 ## Requirements
 
 ### Validated
 
-- [x] Multi-level analysis structure (Individual → Global)
-- [x] Interactive Chart.js visualizations (5 charts)
-- [x] Country rankings and energy intensity metrics
-- [x] AI tool sections with prompt examples at each level
-- [x] Responsive single-page HTML design
-- [x] Citation infrastructure throughout
+- ✓ Multi-level analysis structure (Individual → Global) — v1.0
+- ✓ Interactive Chart.js visualizations (5 charts) — v1.0
+- ✓ Country rankings and energy intensity metrics — v1.0
+- ✓ AI tool sections with prompt examples at each level — v1.0
+- ✓ Responsive single-page HTML design — v1.0
+- ✓ Citation infrastructure throughout — v1.0
+- ✓ 75 case studies (3 per card × 25 cards) with verifiable sources — v1.1
+- ✓ 125 career transition pathways with free resource links — v1.1
+- ✓ 10 new AI cards (EV charging, HVAC maintenance, grid forecasting, etc.) — v1.1
+- ✓ CSS structure for case studies, project ideas, career transitions — v1.1
+- ✓ All URLs validated and working — v1.1
+- ✓ Consistent formatting across all 25 cards — v1.1
 
 ### Active
 
-- [ ] **RESEARCH-01**: Research 3 real-world AI case studies for AI-Powered Energy Monitoring (Individual)
-- [ ] **RESEARCH-02**: Research 3 real-world AI case studies for Smart Home AI Optimization (Individual)
-- [ ] **RESEARCH-03**: Research 3 real-world AI case studies for AI-Powered Carbon Tracking (Individual)
-- [ ] **RESEARCH-04**: Research 3 real-world AI case studies for AI-Assisted Grant Writing (Community)
-- [ ] **RESEARCH-05**: Research 3 real-world AI case studies for AI-Powered Community Organizing (Community)
-- [ ] **RESEARCH-06**: Research 3 real-world AI case studies for Data Analysis for Advocacy (Community)
-- [ ] **RESEARCH-07**: Research 3 real-world AI case studies for Policy Impact Modeling (State/Regional)
-- [ ] **RESEARCH-08**: Research 3 real-world AI case studies for Program Targeting & Optimization (State/Regional)
-- [ ] **RESEARCH-09**: Research 3 real-world AI case studies for Measurement & Verification (State/Regional)
-- [ ] **RESEARCH-10**: Research 3 real-world AI case studies for Integrated Energy Planning (National)
-- [ ] **RESEARCH-11**: Research 3 real-world AI case studies for International Benchmarking (National)
-- [ ] **RESEARCH-12**: Research 3 real-world AI case studies for Climate Commitment Tracking (National)
-- [ ] **RESEARCH-13**: Research 3 real-world AI case studies for Multi-Language Policy Analysis (Global)
-- [ ] **RESEARCH-14**: Research 3 real-world AI case studies for Satellite Efficiency Monitoring (Global)
-- [ ] **RESEARCH-15**: Research 3 real-world AI case studies for Knowledge Sharing Platforms (Global)
-- [ ] **IMPL-01**: Integrate Individual-level case studies into HTML
-- [ ] **IMPL-02**: Integrate Community-level case studies into HTML
-- [ ] **IMPL-03**: Integrate State/Regional-level case studies into HTML
-- [ ] **IMPL-04**: Integrate National-level case studies into HTML
-- [ ] **IMPL-05**: Integrate Global-level case studies into HTML
+(None currently — milestone complete)
 
 ### Out of Scope
 
-- Adding new AI tool categories — using existing card structure
-- Changing visualization/chart code — focus on content enrichment
-- Mobile app version — web-first static HTML
+- Chart/visualization changes — focus on content enrichment only
 - Backend/API integration — static content only
+- Mobile app version — web-first static HTML
+- Additional organizational levels — using existing 5-level structure
+- Job board/listings integration — focus on guidance and resources, not live listings
+- Offline mode — static HTML works offline already
 
 ## Context
 
-The report exists as a single 2,863-line HTML file with embedded CSS and JavaScript. Each organizational level has 3 AI info cards in a grid-3 layout, most with dedicated ai-sidebar sections containing one example each. The task is to research and add 3 detailed real-world case studies to each of the 15 info cards (45 total examples).
+**v1.1 shipped** with comprehensive AI content:
+- Individual level: Energy monitoring, smart home AI, carbon tracking, EV charging, HVAC maintenance
+- Community level: Grant writing, community organizing, advocacy data analysis, building benchmarking, energy burden identification
+- State/Regional level: Policy modeling, program targeting, M&V, grid forecasting, AI permitting
+- National level: Integrated planning, international benchmarking, commitment tracking, national load forecasting, infrastructure maintenance
+- Global level: Multilingual policy analysis, satellite monitoring, knowledge platforms, supply chain emissions, climate finance
 
-**Current structure:**
-- Individual: 3 cards with ai-sidebars (lines 818-964)
-- Community: 3 cards with ai-sidebars (lines 1159-1316)
-- State/Regional: 3 cards + shared ai-sidebar (lines 1666-1705)
-- National: 3 cards + shared ai-sidebar (lines 2055-2094)
-- Global: 3 cards + shared ai-sidebar (lines 2327-2365)
-
-## Constraints
-
-- **Format**: Each case study must have verifiable source/citation
-- **Timeframe**: Focus on established examples (2020-2024) with track records
-- **Detail**: Full paragraph narratives with background, AI application, measurable results
-- **Tech**: Single HTML file, no build process, maintain existing CSS patterns
+Each card includes 3 case studies, DIY/commercial project ideas, and 5 career transition pathways.
 
 ## Key Decisions
 
 | Decision | Rationale | Outcome |
 |----------|-----------|---------|
-| 3 examples per card | User-specified depth over breadth | — Pending |
-| Established cases 2020-2024 | Verified outcomes over cutting-edge | — Pending |
-| Parallel research by level | 5 levels are independent, can parallelize | — Pending |
+| 3 case studies per card | User-specified depth over breadth | ✓ Good — provides sufficient variety |
+| Established cases 2020-2025 | Verified outcomes over cutting-edge | ✓ Good — credible sources |
+| Level-specific colors | Visual hierarchy across sections | ✓ Good — clear organization |
+| Free resources prioritized | Accessibility for career changers | ✓ Good — 212 free resources |
+| DIY uses public data only | Reproducibility without paywalls | ✓ Good — all verified accessible |
+| Unified footnote prefixes per level | Consistency without conflicts | ✓ Good — clean citation system |
+
+## Constraints
+
+- **Format**: Single HTML file, no build process
+- **Tech**: Maintain existing CSS patterns and Chart.js visualizations
+- **Sources**: Verifiable organizations with specific metrics
+- **Resources**: Prioritize free, accessible learning materials
 
 ---
-*Last updated: 2025-01-28 after milestone initialization*
+*Last updated: 2026-01-29 after v1.1 milestone*
