@@ -44,19 +44,19 @@ Requirements for this milestone. Each maps to roadmap phases.
 ### State/Regional Level (5 cards)
 
 **Existing Cards:**
-- [ ] **REG-01**: Add 3 case studies to Policy Impact Modeling card
-- [ ] **REG-02**: Add 3 case studies to Program Targeting & Optimization card
-- [ ] **REG-03**: Add 3 case studies to Measurement & Verification card
+- [x] **REG-01**: Add 3 case studies to Policy Impact Modeling card
+- [x] **REG-02**: Add 3 case studies to Program Targeting & Optimization card
+- [x] **REG-03**: Add 3 case studies to Measurement & Verification card
 
 **New Cards:**
-- [ ] **REG-04**: Create AI-Powered Grid Forecasting card with 3 case studies
-- [ ] **REG-05**: Create AI-Accelerated Permitting card with 3 case studies
+- [x] **REG-04**: Create AI-Powered Grid Forecasting card with 3 case studies
+- [x] **REG-05**: Create AI-Accelerated Permitting card with 3 case studies
 
 **Project Ideas:**
-- [ ] **REG-P1**: Add DIY + commercial project ideas to all 5 State/Regional cards
+- [x] **REG-P1**: Add DIY + commercial project ideas to all 5 State/Regional cards
 
 **Career Transition:**
-- [ ] **REG-C1**: Add 5 career transition suggestions with resources to all 5 State/Regional cards
+- [x] **REG-C1**: Add 5 career transition suggestions with resources to all 5 State/Regional cards
 
 ### National Level (5 cards)
 
@@ -192,13 +192,13 @@ Each card gets 5 suggestions:
 | COM-05 | Phase 2 | Complete |
 | COM-P1 | Phase 2 | Complete |
 | COM-C1 | Phase 2 | Complete |
-| REG-01 | Phase 3 | Pending |
-| REG-02 | Phase 3 | Pending |
-| REG-03 | Phase 3 | Pending |
-| REG-04 | Phase 3 | Pending |
-| REG-05 | Phase 3 | Pending |
-| REG-P1 | Phase 3 | Pending |
-| REG-C1 | Phase 3 | Pending |
+| REG-01 | Phase 3 | Complete |
+| REG-02 | Phase 3 | Complete |
+| REG-03 | Phase 3 | Complete |
+| REG-04 | Phase 3 | Complete |
+| REG-05 | Phase 3 | Complete |
+| REG-P1 | Phase 3 | Complete |
+| REG-C1 | Phase 3 | Complete |
 | NAT-01 | Phase 4 | Pending |
 | NAT-02 | Phase 4 | Pending |
 | NAT-03 | Phase 4 | Pending |
