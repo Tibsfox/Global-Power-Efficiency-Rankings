@@ -42,9 +42,9 @@ Requirements for Learning Paths milestone. Each maps to roadmap phases.
 
 ### National Level (25 pathways)
 
-- [ ] **NAT-01**: 5 cards x 5 pathways with learning path sections
-- [ ] **NAT-02**: Emphasis on systems-scale thinking and grid operations
-- [ ] **NAT-03**: Federal program and institutional knowledge context
+- [x] **NAT-01**: 5 cards x 5 pathways with learning path sections
+- [x] **NAT-02**: Emphasis on systems-scale thinking and grid operations
+- [x] **NAT-03**: Federal program and institutional knowledge context
 
 ### Global Level (25 pathways)
 
@@ -106,9 +106,9 @@ Deferred to v1.3+:
 | STA-01 | 8 | Complete |
 | STA-02 | 8 | Complete |
 | STA-03 | 8 | Complete |
-| NAT-01 | 9 | Pending |
-| NAT-02 | 9 | Pending |
-| NAT-03 | 9 | Pending |
+| NAT-01 | 9 | Complete |
+| NAT-02 | 9 | Complete |
+| NAT-03 | 9 | Complete |
 | GLO-01 | 10 | Pending |
 | GLO-02 | 10 | Pending |
 | GLO-03 | 10 | Pending |
