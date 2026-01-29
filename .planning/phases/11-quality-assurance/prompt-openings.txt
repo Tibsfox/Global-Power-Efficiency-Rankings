@@ -1,0 +1,126 @@
+     1	"Act as a career mentor who has helped software developers transition into energy data science. I am a software developer with [3-5 years] experience 
+     2	"You are a Socratic tutor helping me understand smart metering and AMI systems. Don't give direct answers—guide me through questions that help me di
+     3	"Design a hands-on project that helps an HVAC technician with [X years] field experience develop building energy analysis skills. The project should: 
+     4	"Analyze the skill gap for transitioning from marketing professional to Energy Efficiency Program Manager. First, list the core competencies required 
+     5	"Help me create a structured learning roadmap for transitioning from recent graduate with [degree field] background to Utility Data Analytics Associat
+     6	"Act as a career mentor who has helped IT professionals transition into smart home integration. I am an IT support specialist with [X years] experienc
+     7	"You are a Socratic tutor helping me understand demand response and grid flexibility. Don't give me direct answers—instead, guide me through questio
+     8	"Design a hands-on project that helps someone with a real estate background develop green home certification consulting skills. I want to transition f
+     9	"Analyze the skill gap for transitioning from retail sales to smart home installation technician. First, list the core competencies required for smart
+    10	"Help me create a structured learning roadmap for transitioning from teaching to energy education and outreach. Break this into 5 phases where each ph
+    11	"Act as a career mentor who has helped CPAs transition into carbon accounting roles. I am an accountant with [X years] experience in [financial auditi
+    12	"You are a Socratic tutor helping me understand corporate sustainability metrics. Don't give me direct answers—instead, guide me through questions t
+    13	"Design a hands-on project that helps someone with [marketing / PR / communications] background develop corporate sustainability communication skills.
+    14	"Analyze the skill gap for transitioning from [supply chain manager / procurement specialist / logistics coordinator] to Scope 3 Emissions Analyst. Fi
+    15	"Help me create a structured learning roadmap for transitioning from [financial analyst / portfolio manager / investment associate] to ESG Investment 
+    16	"Act as a career mentor who has helped auto mechanics transition into EV charging infrastructure roles. I am an auto mechanic with [X years] experienc
+    17	"You are a Socratic tutor helping me understand EV fleet charging optimization. Don't give me direct answers—instead, guide me through questions tha
+    18	"Design a hands-on project that helps someone with [residential electrician / commercial electrician / industrial electrician] background develop EV c
+    19	"Analyze the skill gap for transitioning from [construction PM / technology deployment PM / utilities PM] to EV Infrastructure Deployment Manager. Fir
+    20	"Help me create a structured learning roadmap for transitioning from recent graduate to Utility EV Program Coordinator. Break this into 5 phases where
+    21	"Act as a career mentor who has guided HVAC technicians into building automation roles. I am an HVAC technician with [X years] field experience and EP
+    22	"You are a Socratic tutor helping me understand predictive maintenance for HVAC and building systems. Don't give me direct answers—instead, guide me
+    23	"Design a hands-on project that helps someone with [facilities management / property management / building operations] background develop smart buildi
+    24	"Analyze the skill gap for transitioning from [mechanical engineer / HVAC design engineer / building energy modeler] to HVAC AI Systems Designer. Firs
+    25	"Help me create a structured learning roadmap for transitioning from [recent engineering graduate / recent CS graduate / career changer] to Building P
+    26	"A food bank director in your community asks: 'We're applying for DOE Energy Efficiency and Conservation Block Grant (EECBG) funding to install solar 
+    27	"As someone coordinating a community weatherization program, I need to learn both the technical basics and stakeholder engagement skills. I'm transiti
+    28	"Help me advise a community housing nonprofit on an upcoming State Energy Program (SEP) grant opportunity. I'm transitioning from journalism to Energy
+    29	"Help me create a multi-step learning workflow to transition from teaching into energy program outreach. Step 1: What energy efficiency concepts shoul
+    30	"Act as a career advisor for social workers transitioning into energy assistance program roles using the GSD (Get Stuff Done) systematic approach. I'm
+    31	"Help me create a learning workflow for transitioning from community organizing to Clean Energy Campaign Manager. I'll work through this in steps: Ste
+    32	"I want to build a portfolio project demonstrating climate outreach skills for a Climate Outreach Specialist position. Design a project where I create
+    33	"A neighborhood association president asks you: 'Our community is interested in starting a community solar project that especially benefits renters an
+    34	"As someone coordinating community energy events, I need to learn both the technical basics and stakeholder facilitation skills. I'm transitioning fro
+    35	"I am transitioning from political campaign organizing to Climate Advocacy Organizer focused on utility regulation and clean energy policy. Analyze th
+    36	"Help me advise my state energy office on expanding low-income weatherization programs. I have census tract-level data showing that [MY COUNTY] has 8,
+    37	"You are a Socratic tutor helping me understand how energy affordability intersects with community data analysis. I'm an academic researcher with quan
+    38	"I need to prepare public testimony for a utility rate case hearing on proposed electricity rate increases that would disproportionately impact low-in
+    39	"Help me advise a community action agency on designing a targeted weatherization program. They serve a county with 12,000 low-income households and ha
+    40	"A state legislator asks you to brief her on energy burden disparities in her district before a committee hearing on weatherization funding. She has 1
+    41	"I want to build a building energy dashboard for a community housing portfolio. I'm a data analyst transitioning into Building Performance Analyst foc
+    42	"As someone coordinating building energy compliance for a multifamily portfolio, I need to learn both technical systems and tenant engagement skills. 
+    43	"Act as a career coach who helps HVAC technicians transition into building energy auditing roles. I am an HVAC technician with [X years] of field expe
+    44	"I want to transition from financial accounting to carbon accounting for real estate portfolios. What specific gaps do I need to close? My background 
+    45	"Help me advise building owners on implementing automated energy analytics systems. I'm transitioning from software developer to Building Analytics En
+    46	"A community action agency director asks you: 'We're seeing 30% increases in energy bills this winter and more disconnection notices. I know we can ex
+    47	"A community action agency director asks you: 'We're seeing 30% increases in energy bills this winter and more disconnection notices. I know we can ex
+    48	"As someone coordinating energy assistance applications at a community action agency, I need to build my knowledge of LIHEAP and WAP programs so I can
+    49	"Help me create a learning workflow to transition from public health into energy equity work. I'm a public health professional with [X years] experien
+    50	"I want to understand the energy assistance landscape before I start doing community outreach. What questions should I be asking to really understand 
+    51	"I want to create a utility bill assistance resource guide for my community. I'm transitioning from customer service into a Utility Assistance Special
+    52	"I need to analyze my state's proposed Renewable Portfolio Standard (RPS) amendment to understand implementation implications. The bill increases the 
+    53	"Map a 5-year career roadmap from entry-level analyst at a state Public Utility Commission (PUC) to Senior Regulatory Analyst leading rate case review
+    54	"As a reservoir engineer transitioning from oil and gas to renewable energy systems analysis, conduct a technical skill gap assessment. My current exp
+    55	"I'm advising a utility client on stakeholder strategy for an upcoming PUC docket on energy efficiency program cost recovery. The utility is seeking a
+    56	"I'm considering the Certified Energy Manager (CEM) credential to strengthen my candidacy for state energy office policy positions. The exam costs $50
+    57	"Map a 5-year career roadmap from Marketing Analyst transitioning into Utility Program Analyst through Senior Program Manager at an investor-owned uti
+    58	"As an Oil & Gas Production Planner transitioning to Utility Demand Response Coordinator, conduct a technical skill gap analysis. My current expertise
+    59	"I'm leading analytics for a utility's DSM (demand-side management) program portfolio that's undergoing PUC (Public Utility Commission) review. Stakeh
+    60	"I'm considering the Certified Energy Manager (CEM) credential to strengthen my candidacy for state energy office program administrator positions. I h
+    61	"I need to analyze my utility's draft Integrated Resource Plan (IRP) docket to understand the planning methodology and identify potential improvements
+    62	"As a building performance analyst transitioning to energy program evaluation, conduct a technical skill gap assessment comparing my current expertise
+    63	"I'm a data scientist supporting an evaluation team analyzing a commercial HVAC rebate program's verified savings. The evaluation uses CalTRACK method
+    64	"I'm an oil & gas engineer considering the BPI Building Analyst certification and potentially CEM (Certified Energy Manager) to strengthen my candidac
+    65	"I need to analyze my state PUC's energy efficiency program evaluation guidelines to understand methodological requirements for utility program impact
+    66	"Map a 5-year career roadmap from Energy Program Manager at an investor-owned utility (IOU) to Senior Manager overseeing portfolio-wide efficiency pro
+    67	"I'm supporting a grid modernization project coordinating between our Regional Transmission Organization (RTO—organization managing electricity tran
+    68	"I'm a data scientist transitioning to ISO market operations and considering certifications to strengthen my candidacy for market analyst roles at org
+    69	"I need to analyze NERC reliability standards that apply to my target grid operations role. Specifically, I want to understand BAL (Balancing) standar
+    70	"Map a 5-year career roadmap from entry-level Renewable Generation Forecaster at a regional ISO (like CAISO, PJM, or MISO) to Senior Forecasting Analy
+    71	"As a software engineer transitioning to grid analytics development at an ISO or grid technology vendor, conduct a technical skill gap analysis. My cu
+    72	"I'm planning a career transition from project management to utility interconnection coordination. Help me create a certification and training pathway
+    73	"I need to understand the NEPA (National Environmental Policy Act) review process for a proposed 500 MW solar project on BLM land in [state]. Help me 
+    74	"Help me create a 3-year career milestone roadmap for transitioning from urban planning to clean energy permitting specialist. My background: [X years
+    75	"I'm transitioning from paralegal work to utility regulatory compliance analysis and need to assess my technical skill gaps. My background: [X years] 
+    76	"I'm researching energy permitting policy and need to understand how to analyze a complex multi-stakeholder coordination scenario. The scenario: A pro
+    77	"I'm transitioning from data analysis to a Federal Energy Policy Analyst role at [DOE/EIA]. Help me map the federal energy program landscape: (1) What
+    78	"I'm developing cross-sector analysis skills for a National Lab Energy Economist position at [NREL/PNNL/LBNL]. Help me understand sector coupling econ
+    79	"I'm transitioning from [IT program management/construction management/operations management] to a Federal Utility Program Manager role at TVA or BPA.
+    80	"I'm building systems integration skills for an Energy Systems Modeler role at [NREL/PNNL/Argonne]. Help me understand GW-scale grid interactions: (1)
+    81	"I'm preparing for an Energy Data Platform Engineer role at [EIA/NREL/national lab]. Help me understand the federal energy data ecosystem: (1) Who are
+    82	"I'm preparing for an International Energy Analyst role at IEA or IRENA. Help me map the global energy policy stakeholder landscape: (1) What are the 
+    83	"I'm transitioning from economics to a Climate Finance Analyst role at the World Bank, IFC, or regional development banks. Help me navigate the climat
+    84	"I'm a data scientist targeting a Global Energy Data Specialist role at IEA, IFC, or similar international organizations. Help me understand cross-sec
+    85	"I'm a Foreign Service Officer transitioning to an Energy Attache role at State Department or DOE Office of International Affairs. Help me map the ene
+    86	"I'm an academic researcher (energy economics/policy) considering a transition to think tank work at Brookings, WRI, RFF, or similar organizations. He
+    87	"I'm transitioning from environmental science research to a Federal Climate Policy Analyst role at [EPA/DOE/NOAA]. Help me navigate the federal climat
+    88	"I'm transitioning from data analysis to a Climate Data Specialist role at [NOAA/EPA]. Help me understand the federal climate data ecosystem: (1) How 
+    89	"I'm transitioning from NGO program management to a UN Climate Secretariat Officer role at UNFCCC. Help me map the international climate negotiation s
+    90	"I'm transitioning from journalism to a Climate Policy Communications Specialist role at [EPA/DOE/NOAA/federal contractor]. Help me understand how to 
+    91	"I'm transitioning from [teaching/higher education] to a Federal Climate Education Program Manager role at [DOE/EPA/NOAA]. Help me understand the life
+    92	"I'm transitioning from [electrical engineering / power systems design / grid operations] to a Federal Utility Grid Operations Manager role at TVA or 
+    93	"I'm developing systems-scale thinking for a National Lab Grid Analytics Researcher position at NREL or Argonne. Help me analyze cross-sector interact
+    94	"I'm transitioning from [weather forecasting / numerical weather prediction / atmospheric science] to a Federal Grid Renewable Forecasting Specialist 
+    95	"I'm transitioning from [operations research / optimization / applied mathematics] to a DOE Grid Optimization Specialist role. Help me navigate the fe
+    96	"I'm transitioning from [ML engineering / AI systems development / data infrastructure] to a Federal AI/ML Energy Systems Developer role at a national
+    97	"I'm transitioning from [mechanical engineering / equipment reliability / manufacturing] to a Federal Utility Asset Management Engineer role at TVA or
+    98	"I'm transitioning from [data science / ML engineering / quantitative analysis] to a National Lab Infrastructure Analytics Researcher role at Argonne 
+    99	"I'm transitioning from [reliability engineering / maintenance management / quality assurance] to a NERC Compliance Specialist role at a large utility
+   100	"I'm transitioning from [software engineering / cloud infrastructure / DevOps] to an Industrial IoT/AI Platform Developer role at a utility or federal
+   101	"I'm transitioning from [utility operations / engineering management / technical leadership] to a Federal Energy Training Program Developer role at DO
+   102	"I'm transitioning from [policy research / government analysis / think tank work] to an International Energy Policy Analyst role at IEA or IRENA. Help
+   103	"I'm a data scientist transitioning to international climate data work at organizations like WRI or Climate Analytics. Help me understand the internat
+   104	"I'm a professional translator transitioning to climate policy translation, potentially with UN agencies or international organizations. Help me under
+   105	"I'm a journalist transitioning to international climate communications, potentially with UNFCCC or regional bodies. Help me understand how climate co
+   106	"I'm an academic researcher considering a transition to an international think tank like WRI (1,500 staff globally), IISD, or E3G (150+ staff). Help m
+   107	"I'm transitioning from [GIS / spatial analysis / urban planning] to a Remote Sensing Climate Specialist role working with international satellite con
+   108	"I'm an environmental scientist preparing for an International Monitoring & Verification Specialist role with UNFCCC or World Bank. Help me understand
+   109	"I'm a software engineer transitioning to Climate Tech Satellite Data Platform development. Help me understand the international geospatial data ecosy
+   110	"I'm a data analyst transitioning to a Global Emissions Data Analyst role with CDP or Climate TRACE. Help me understand the international corporate em
+   111	"I'm an academic researcher transitioning to a Climate Remote Sensing Research Scientist role at NASA, ESA, or an international research institution. 
+   112	"I'm transitioning from [K-12 teaching / university instruction / corporate training] to an International Climate Training Specialist role with UN CC:
+   113	"I'm transitioning from [web development / backend engineering / data platform work] to an International Climate Platform Developer role at WRI or sim
+   114	"I'm preparing for a Regional Climate Program Coordinator role with [EU / ASEAN / African Union]. Help me analyze cross-border energy collaboration me
+   115	"I'm transitioning from [academic library / corporate information management / digital archives] to Climate Knowledge Management at an international o
+   116	"I'm transitioning from [management consulting / development consulting / training delivery] to International Climate Capacity Building with UN agenci
+   117	"I'm a supply chain manager transitioning to corporate Scope 3 program management at a [MULTINATIONAL COMPANY TYPE: manufacturing, retail, technology]
+   118	"I'm a data scientist building skills for corporate emissions analytics at [CDP, Big 4 consulting climate practice, corporate sustainability team]. He
+   119	"I'm a sustainability manager preparing for a Global Supply Chain Sustainability Director role at a [MULTINATIONAL TYPE: Fortune 500 manufacturer, glo
+   120	"I'm an auditor/accountant transitioning to climate disclosure verification at a [Big 4 firm, boutique assurance provider, internal audit team]. Help 
+   121	"I'm a software engineer building skills for climate tech supply chain platforms. Help me understand the international technical landscape: (1) How do
+   122	"I'm transitioning from [policy research / economic analysis / government] to a Climate Finance Analyst role with multilateral climate funds. Help me 
+   123	"I'm transitioning from [financial analysis / investment banking / project finance] to a Climate Specialist role with multilateral development banks. 
+   124	"I'm transitioning from [international development / program management / government] to a National Designated Authority Climate Finance Coordinator r
+   125	"I'm transitioning from [NGO program management / development / civil society] to an International Climate Fund Project Developer role. Help me unders
+   126	"I'm transitioning from [economics / quantitative analysis / academic research] to a Climate Adaptation Economics Specialist role. Help me understand 
