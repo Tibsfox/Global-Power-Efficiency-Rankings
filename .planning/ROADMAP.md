@@ -69,10 +69,14 @@ Plans:
   3. Professional certification context included where relevant (CEM, BPI, LEED AP, etc.)
   4. Prompt patterns and presentation style distinctly professional/authoritative
   5. Resources include state regulatory documentation and laboratory/technical sources
-**Plans**: TBD
+**Plans**: 5 plans
 
 Plans:
-- [ ] 08-01: TBD
+- [ ] 08-01-PLAN.md — Add learning paths to AI Policy Modeling section (5 pathways)
+- [ ] 08-02-PLAN.md — Add learning paths to AI Program Targeting section (5 pathways)
+- [ ] 08-03-PLAN.md — Add learning paths to AI Measurement & Verification section (5 pathways)
+- [ ] 08-04-PLAN.md — Add learning paths to AI Grid Forecasting section (5 pathways)
+- [ ] 08-05-PLAN.md — Add learning paths to AI Permitting section (5 pathways)
 
 ### Phase 9: National Level
 **Goal**: Career changers at the National level can access AI prompts and projects emphasizing systems-scale thinking and federal programs
@@ -126,7 +130,7 @@ Plans:
 |-------|-----------|----------------|--------|-----------|
 | 6. Individual Level | v1.2 | 5/5 | ✓ Complete | 2026-01-29 |
 | 7. Community Level | v1.2 | 5/5 | ✓ Complete | 2026-01-29 |
-| 8. State/Regional Level | v1.2 | 0/TBD | Not started | - |
+| 8. State/Regional Level | v1.2 | 0/5 | Planned | - |
 | 9. National Level | v1.2 | 0/TBD | Not started | - |
 | 10. Global Level | v1.2 | 0/TBD | Not started | - |
 | 11. Quality Assurance | v1.2 | 0/TBD | Not started | - |
