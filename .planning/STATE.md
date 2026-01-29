@@ -5,23 +5,23 @@
 See: .planning/PROJECT.md (updated 2026-01-28)
 
 **Core value:** Demonstrate practical, replicable ways that real people use AI tools to solve energy efficiency problems—with citable examples, actionable projects, and career pathways
-**Current focus:** Phase 4 - National Level
+**Current focus:** Phase 5 - Global Level
 
 ## Current Position
 
-Phase: 4 of 5 (National Level)
-Plan: 0 of 1 in current phase
-Status: Ready to plan
-Last activity: 2026-01-28 — Phase 3 verified and complete
+Phase: 4 of 5 (National Level) - COMPLETE
+Plan: 1 of 1 in current phase - COMPLETE
+Status: Phase complete, ready for Phase 5
+Last activity: 2026-01-29 — Completed 04-01-PLAN.md
 
-Progress: [██████░░░░] 57%
+Progress: [███████░░░] 71%
 
 ## Performance Metrics
 
 **Velocity:**
-- Total plans completed: 4
-- Average duration: 7.7 minutes
-- Total execution time: 0.51 hours
+- Total plans completed: 5
+- Average duration: 8.2 minutes
+- Total execution time: 0.68 hours
 
 **By Phase:**
 
@@ -30,12 +30,12 @@ Progress: [██████░░░░] 57%
 | 1. Individual | 2/2 ✓ | 10.6min | 5.3min |
 | 2. Community | 1/1 ✓ | 7.3min | 7.3min |
 | 3. State/Regional | 1/1 ✓ | 11.0min | 11.0min |
-| 4. National | 0/1 | - | - |
+| 4. National | 1/1 ✓ | 10.5min | 10.5min |
 | 5. Global | 0/2 | - | - |
 
 **Recent Trend:**
-- Last 5 plans: 01-01 (1.8min), 01-02 (8.8min), 02-01 (7.3min), 03-01 (11.0min)
-- Trend: Phase 3 complete, ready for Phase 4
+- Last 5 plans: 01-01 (1.8min), 01-02 (8.8min), 02-01 (7.3min), 03-01 (11.0min), 04-01 (10.5min)
+- Trend: Phase 4 complete, ready for Phase 5 Global level
 
 *Updated after each plan completion*
 
@@ -70,6 +70,13 @@ Recent decisions affecting current work:
 - [03-01]: Career paths show transitions from both general professional backgrounds AND oil/gas to grid/policy sectors
 - [03-01]: DIY projects strictly use public data sources only (EIA API, ISO OASIS portals, OpenEI)
 - [03-01]: State/Regional footnote prefixes: policymodel-ref, programtarget-ref, measureverify-ref, gridforecast-ref, permitting-ref
+- [04-01]: National cards use amber/gold accent (var(--accent-amber)) to distinguish from Individual (green), Community (blue), State/Regional (cyan)
+- [04-01]: National case studies override border to amber for section consistency
+- [04-01]: Federal agency acronyms explained inline on first use (DOE, FERC, EIA, EPA, TVA, BPA, NREL, Argonne, PNNL)
+- [04-01]: International diversity includes UK National Grid ESO, Germany Energiewende, Japan grid modernization
+- [04-01]: Career paths emphasize federal agencies, national labs, and large federal utilities with federal pay scale context
+- [04-01]: DIY projects framed for domain experts without coding skills - AI assists with data processing
+- [04-01]: National footnote prefixes: national-ref-1 through national-ref-15 (unified prefix for all 5 cards)
 
 ### Pending Todos
 
@@ -81,8 +88,8 @@ None yet.
 
 ## Session Continuity
 
-Last session: 2026-01-28
-Stopped at: Phase 3 verified and complete - ready for Phase 4 planning
+Last session: 2026-01-29
+Stopped at: Phase 4 complete - ready for Phase 5 planning
 Resume file: None
 
 ---
