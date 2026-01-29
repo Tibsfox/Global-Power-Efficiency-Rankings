@@ -5,14 +5,14 @@
 See: .planning/PROJECT.md (updated 2026-01-29)
 
 **Core value:** Demonstrate practical, replicable ways that real people use AI tools to solve energy efficiency problems—with citable examples, actionable projects, and career pathways
-**Current focus:** v1.2 Learning Paths — Phase 11 QA Plan 02 Complete
+**Current focus:** v1.2 Learning Paths — Phase 11 QA Plan 03 Complete
 
 ## Current Position
 
 Phase: 11 of 11 (Quality Assurance) - IN PROGRESS
-Plan: 2 of 3 complete
-Status: Phase in progress
-Last activity: 2026-01-29 — Completed 11-02-PLAN.md (Sameness audit)
+Plan: 3 of 3 complete
+Status: Phase complete
+Last activity: 2026-01-29 — Completed 11-03-PLAN.md (Labor market claims validation)
 
 Progress: [██████████████████] 100% (6/6 phases in v1.2 milestone)
 
@@ -42,7 +42,7 @@ Progress: [██████████████████] 100% (6/6 pha
 | 8. State/Regional Level | 5/5 | 42min | 8.4min |
 | 9. National Level | 5/5 | 25min | 5.0min |
 | 10. Global Level | 5/5 | 22min | 4.4min |
-| 11. Quality Assurance | 2/3 | 18min | 9min |
+| 11. Quality Assurance | 3/3 | 26min | 8.7min |
 
 ## Accumulated Context
 
@@ -59,6 +59,8 @@ v1.1 milestone decisions archived in:
 - Accept timeout URLs from slow international gov servers (6 URLs)
 - Replace broken URLs with same-organization alternatives or authoritative sources
 - Accept 5-pattern structure per card as intentional design (provides adjacent pathway variety)
+- Use semicolon separator for salary caveats (consistent with existing patterns)
+- Treat "highly variable" as equivalent caveat (communicates uncertainty)
 
 ### Pending Todos
 
@@ -70,8 +72,8 @@ None.
 
 ## Session Continuity
 
-Last session: 2026-01-29T15:29Z
-Stopped at: Completed 11-02-PLAN.md (Sameness audit - 1 duplicate fixed)
+Last session: 2026-01-29T15:31Z
+Stopped at: Completed 11-03-PLAN.md (Labor market claims validation - 48 caveats added)
 Resume file: None
 
 ## Milestone History
@@ -83,4 +85,4 @@ Resume file: None
 See `.planning/MILESTONES.md` for full details.
 
 ---
-*Last updated: 2026-01-29T15:29Z*
+*Last updated: 2026-01-29T15:31Z*
