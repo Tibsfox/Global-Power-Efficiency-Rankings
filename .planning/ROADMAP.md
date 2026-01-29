@@ -90,11 +90,11 @@ Plans:
   5. All 75 case study source URLs are valid and accessible
   6. All career resource URLs are valid and vetted
   7. Formatting is consistent across all 25 cards
-**Plans**: TBD
+**Plans**: 2 plans
 
 Plans:
-- [ ] 05-01: Implement Global-level cards with all content types
-- [ ] 05-02: Final QA validation across all levels
+- [ ] 05-01-PLAN.md — Implement Global-level cards with all content types (5 cards, 15 case studies, 25 career paths)
+- [ ] 05-02-PLAN.md — Final QA validation across all levels (URL validation, formatting consistency)
 
 ## Progress
 
