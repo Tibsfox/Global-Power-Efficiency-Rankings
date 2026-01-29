@@ -24,9 +24,9 @@ Requirements for Learning Paths milestone. Each maps to roadmap phases.
 
 ### Individual Level (25 pathways)
 
-- [ ] **IND-01**: 5 cards x 5 pathways with learning path sections
-- [ ] **IND-02**: Emphasis on hands-on, kinesthetic learning resources
-- [ ] **IND-03**: Shorter timeline expectations (home/personal scale)
+- [x] **IND-01**: 5 cards x 5 pathways with learning path sections
+- [x] **IND-02**: Emphasis on hands-on, kinesthetic learning resources
+- [x] **IND-03**: Shorter timeline expectations (home/personal scale)
 
 ### Community Level (25 pathways)
 
@@ -97,9 +97,9 @@ Deferred to v1.3+:
 | VAR-02 | 6-10 | Pending |
 | VAR-03 | 6-10 | Pending |
 | VAR-04 | 6-10 | Pending |
-| IND-01 | 6 | Pending |
-| IND-02 | 6 | Pending |
-| IND-03 | 6 | Pending |
+| IND-01 | 6 | Complete |
+| IND-02 | 6 | Complete |
+| IND-03 | 6 | Complete |
 | COM-01 | 7 | Pending |
 | COM-02 | 7 | Pending |
 | COM-03 | 7 | Pending |
