@@ -27,19 +27,19 @@ Requirements for this milestone. Each maps to roadmap phases.
 ### Community Level (5 cards)
 
 **Existing Cards:**
-- [ ] **COM-01**: Add 3 case studies to AI-Assisted Grant Writing card
-- [ ] **COM-02**: Add 3 case studies to AI-Powered Community Organizing card
-- [ ] **COM-03**: Add 3 case studies to Data Analysis for Advocacy card
+- [x] **COM-01**: Add 3 case studies to AI-Assisted Grant Writing card
+- [x] **COM-02**: Add 3 case studies to AI-Powered Community Organizing card
+- [x] **COM-03**: Add 3 case studies to Data Analysis for Advocacy card
 
 **New Cards:**
-- [ ] **COM-04**: Create AI-Powered Building Energy Benchmarking card with 3 case studies
-- [ ] **COM-05**: Create AI for Energy Burden Identification & Outreach card with 3 case studies
+- [x] **COM-04**: Create AI-Powered Building Energy Benchmarking card with 3 case studies
+- [x] **COM-05**: Create AI for Energy Burden Identification & Outreach card with 3 case studies
 
 **Project Ideas:**
-- [ ] **COM-P1**: Add DIY + commercial project ideas to all 5 Community cards
+- [x] **COM-P1**: Add DIY + commercial project ideas to all 5 Community cards
 
 **Career Transition:**
-- [ ] **COM-C1**: Add 5 career transition suggestions with resources to all 5 Community cards
+- [x] **COM-C1**: Add 5 career transition suggestions with resources to all 5 Community cards
 
 ### State/Regional Level (5 cards)
 
@@ -185,13 +185,13 @@ Each card gets 5 suggestions:
 | INT-01 | Phase 1 | Complete |
 | INT-02 | Phase 1 | Complete |
 | INT-03 | Phase 1 | Complete |
-| COM-01 | Phase 2 | Pending |
-| COM-02 | Phase 2 | Pending |
-| COM-03 | Phase 2 | Pending |
-| COM-04 | Phase 2 | Pending |
-| COM-05 | Phase 2 | Pending |
-| COM-P1 | Phase 2 | Pending |
-| COM-C1 | Phase 2 | Pending |
+| COM-01 | Phase 2 | Complete |
+| COM-02 | Phase 2 | Complete |
+| COM-03 | Phase 2 | Complete |
+| COM-04 | Phase 2 | Complete |
+| COM-05 | Phase 2 | Complete |
+| COM-P1 | Phase 2 | Complete |
+| COM-C1 | Phase 2 | Complete |
 | REG-01 | Phase 3 | Pending |
 | REG-02 | Phase 3 | Pending |
 | REG-03 | Phase 3 | Pending |
