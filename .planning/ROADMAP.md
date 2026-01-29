@@ -31,10 +31,14 @@ This milestone adds personalized learning paths with AI prompts and self-study r
   3. Each pathway includes 2-3 project portfolio ideas with concrete deliverables spanning beginner to proficient
   4. Learning content emphasizes kinesthetic, hands-on approaches appropriate for home/personal scale
   5. No two adjacent pathways use identical prompt patterns or opening hooks
-**Plans**: TBD
+**Plans**: 5 plans
 
 Plans:
-- [ ] 06-01: TBD
+- [ ] 06-01-PLAN.md — Add learning paths to AI Energy Monitoring section (5 pathways)
+- [ ] 06-02-PLAN.md — Add learning paths to AI Smart Home section (5 pathways)
+- [ ] 06-03-PLAN.md — Add learning paths to AI Carbon Tracking section (5 pathways)
+- [ ] 06-04-PLAN.md — Add learning paths to AI EV Charging section (5 pathways)
+- [ ] 06-05-PLAN.md — Add learning paths to AI HVAC section (5 pathways)
 
 ### Phase 7: Community Level
 **Goal**: Career changers at the Community level can access AI prompts and projects focused on mission-driven, collaborative impact
@@ -116,7 +120,7 @@ Plans:
 
 | Phase | Milestone | Plans Complete | Status | Completed |
 |-------|-----------|----------------|--------|-----------|
-| 6. Individual Level | v1.2 | 0/TBD | Not started | - |
+| 6. Individual Level | v1.2 | 0/5 | Planned | - |
 | 7. Community Level | v1.2 | 0/TBD | Not started | - |
 | 8. State/Regional Level | v1.2 | 0/TBD | Not started | - |
 | 9. National Level | v1.2 | 0/TBD | Not started | - |
