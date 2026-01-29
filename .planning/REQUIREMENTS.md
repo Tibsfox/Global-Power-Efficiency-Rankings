@@ -9,18 +9,18 @@ Requirements for Learning Paths milestone. Each maps to roadmap phases.
 
 ### Learning Path Content
 
-- [ ] **LP-01**: Each career pathway includes one tailored AI prompt example users can adapt
-- [ ] **LP-02**: Each AI prompt demonstrates how to generate personalized study plans/curricula
-- [ ] **LP-03**: Each career pathway includes 2-3 project portfolio ideas with concrete deliverables
-- [ ] **LP-04**: Project ideas span beginner to proficient skill levels
-- [ ] **LP-05**: Learning paths emphasize AI tools + domain knowledge + human skills combination
+- [x] **LP-01**: Each career pathway includes one tailored AI prompt example users can adapt
+- [x] **LP-02**: Each AI prompt demonstrates how to generate personalized study plans/curricula
+- [x] **LP-03**: Each career pathway includes 2-3 project portfolio ideas with concrete deliverables
+- [x] **LP-04**: Project ideas span beginner to proficient skill levels
+- [x] **LP-05**: Learning paths emphasize AI tools + domain knowledge + human skills combination
 
 ### Content Variety
 
-- [ ] **VAR-01**: AI prompts use varied structures across pathways (Socratic, project-based, competency-gap, etc.)
-- [ ] **VAR-02**: Each organizational level has distinct presentation style
-- [ ] **VAR-03**: No two adjacent career pathways use identical prompt patterns
-- [ ] **VAR-04**: Project ideas reflect domain-specific applications (hands-on vs analytical vs policy)
+- [x] **VAR-01**: AI prompts use varied structures across pathways (Socratic, project-based, competency-gap, etc.)
+- [x] **VAR-02**: Each organizational level has distinct presentation style
+- [x] **VAR-03**: No two adjacent career pathways use identical prompt patterns
+- [x] **VAR-04**: Project ideas reflect domain-specific applications (hands-on vs analytical vs policy)
 
 ### Individual Level (25 pathways)
 
@@ -54,10 +54,10 @@ Requirements for Learning Paths milestone. Each maps to roadmap phases.
 
 ### Quality Assurance
 
-- [ ] **QA-01**: All new resource URLs validated before shipping
-- [ ] **QA-02**: Sameness audit across pathways (no identical prompt copy-paste)
-- [ ] **QA-03**: Labor market claims use realistic ranges (avoid overpromising)
-- [ ] **QA-04**: Free resources prioritized, paywalls clearly noted
+- [x] **QA-01**: All new resource URLs validated before shipping
+- [x] **QA-02**: Sameness audit across pathways (no identical prompt copy-paste)
+- [x] **QA-03**: Labor market claims use realistic ranges (avoid overpromising)
+- [x] **QA-04**: Free resources prioritized, paywalls clearly noted
 
 ## Future Requirements
 
@@ -88,15 +88,15 @@ Deferred to v1.3+:
 
 | Requirement | Phase | Status |
 |-------------|-------|--------|
-| LP-01 | 6-10 | Pending |
-| LP-02 | 6-10 | Pending |
-| LP-03 | 6-10 | Pending |
-| LP-04 | 6-10 | Pending |
-| LP-05 | 6-10 | Pending |
-| VAR-01 | 6-10 | Pending |
-| VAR-02 | 6-10 | Pending |
-| VAR-03 | 6-10 | Pending |
-| VAR-04 | 6-10 | Pending |
+| LP-01 | 6-10 | Complete |
+| LP-02 | 6-10 | Complete |
+| LP-03 | 6-10 | Complete |
+| LP-04 | 6-10 | Complete |
+| LP-05 | 6-10 | Complete |
+| VAR-01 | 6-10 | Complete |
+| VAR-02 | 6-10 | Complete |
+| VAR-03 | 6-10 | Complete |
+| VAR-04 | 6-10 | Complete |
 | IND-01 | 6 | Complete |
 | IND-02 | 6 | Complete |
 | IND-03 | 6 | Complete |
@@ -112,10 +112,10 @@ Deferred to v1.3+:
 | GLO-01 | 10 | Complete |
 | GLO-02 | 10 | Complete |
 | GLO-03 | 10 | Complete |
-| QA-01 | 11 | Pending |
-| QA-02 | 11 | Pending |
-| QA-03 | 11 | Pending |
-| QA-04 | 11 | Pending |
+| QA-01 | 11 | Complete |
+| QA-02 | 11 | Complete |
+| QA-03 | 11 | Complete |
+| QA-04 | 11 | Complete |
 
 **Coverage:**
 - v1.2 requirements: 27 total
