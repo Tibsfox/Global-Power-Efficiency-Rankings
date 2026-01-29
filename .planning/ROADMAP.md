@@ -125,10 +125,13 @@ Plans:
   2. Sameness audit confirms no identical prompt copy-paste across pathways (sample 10+ cross-level)
   3. Labor market claims use realistic ranges with appropriate caveats
   4. Free resources clearly distinguished from paywalled content
-**Plans**: TBD
+**Plans**: 4 plans
 
 Plans:
-- [ ] 11-01: TBD
+- [ ] 11-01-PLAN.md — URL validation and broken link fixes (blocking)
+- [ ] 11-02-PLAN.md — Sameness audit and prompt variety rewrite
+- [ ] 11-03-PLAN.md — Labor market claims review and caveats
+- [ ] 11-04-PLAN.md — Paywall detection, QA reports, and verification
 
 ## Progress
 
@@ -141,7 +144,7 @@ Plans:
 | 8. State/Regional Level | v1.2 | 5/5 | ✓ Complete | 2026-01-29 |
 | 9. National Level | v1.2 | 5/5 | ✓ Complete | 2026-01-29 |
 | 10. Global Level | v1.2 | 5/5 | ✓ Complete | 2026-01-29 |
-| 11. Quality Assurance | v1.2 | 0/TBD | Not started | - |
+| 11. Quality Assurance | v1.2 | 0/4 | Not started | - |
 
 ---
 *Created: 2026-01-29*
