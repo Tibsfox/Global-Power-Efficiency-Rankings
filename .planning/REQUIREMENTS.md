@@ -78,29 +78,29 @@ Requirements for this milestone. Each maps to roadmap phases.
 ### Global Level (5 cards)
 
 **Existing Cards:**
-- [ ] **GLO-01**: Add 3 case studies to Multi-Language Policy Analysis card
-- [ ] **GLO-02**: Add 3 case studies to Satellite-Based Efficiency Monitoring card
-- [ ] **GLO-03**: Add 3 case studies to Knowledge Sharing Platforms card
+- [x] **GLO-01**: Add 3 case studies to Multi-Language Policy Analysis card
+- [x] **GLO-02**: Add 3 case studies to Satellite-Based Efficiency Monitoring card
+- [x] **GLO-03**: Add 3 case studies to Knowledge Sharing Platforms card
 
 **New Cards:**
-- [ ] **GLO-04**: Create AI-Powered Supply Chain Emissions Transparency card with 3 case studies
-- [ ] **GLO-05**: Create AI-Optimized Climate Finance Allocation card with 3 case studies
+- [x] **GLO-04**: Create AI-Powered Supply Chain Emissions Transparency card with 3 case studies
+- [x] **GLO-05**: Create AI-Optimized Climate Finance Allocation card with 3 case studies
 
 **Project Ideas:**
-- [ ] **GLO-P1**: Add DIY + commercial project ideas to all 5 Global cards
+- [x] **GLO-P1**: Add DIY + commercial project ideas to all 5 Global cards
 
 **Career Transition:**
-- [ ] **GLO-C1**: Add 5 career transition suggestions with resources to all 5 Global cards
+- [x] **GLO-C1**: Add 5 career transition suggestions with resources to all 5 Global cards
 
 ### Integration & Quality
 
 - [x] **INT-01**: Create CSS structure for case study sections
 - [x] **INT-02**: Create CSS structure for project ideas sections
 - [x] **INT-03**: Create CSS structure for career transition sections
-- [ ] **INT-04**: Ensure all 75 source URLs are valid and accessible
-- [ ] **INT-05**: Ensure all career resource URLs are valid and vetted
-- [ ] **INT-06**: Maintain consistent formatting across all 25 cards
-- [ ] **INT-07**: Add new cards to appropriate sections in HTML structure
+- [x] **INT-04**: Ensure all 75 source URLs are valid and accessible
+- [x] **INT-05**: Ensure all career resource URLs are valid and vetted
+- [x] **INT-06**: Maintain consistent formatting across all 25 cards
+- [x] **INT-07**: Add new cards to appropriate sections in HTML structure
 
 ## Summary
 
@@ -206,17 +206,17 @@ Each card gets 5 suggestions:
 | NAT-05 | Phase 4 | Complete |
 | NAT-P1 | Phase 4 | Complete |
 | NAT-C1 | Phase 4 | Complete |
-| GLO-01 | Phase 5 | Pending |
-| GLO-02 | Phase 5 | Pending |
-| GLO-03 | Phase 5 | Pending |
-| GLO-04 | Phase 5 | Pending |
-| GLO-05 | Phase 5 | Pending |
-| GLO-P1 | Phase 5 | Pending |
-| GLO-C1 | Phase 5 | Pending |
-| INT-04 | Phase 5 | Pending |
-| INT-05 | Phase 5 | Pending |
-| INT-06 | Phase 5 | Pending |
-| INT-07 | Phase 5 | Pending |
+| GLO-01 | Phase 5 | Complete |
+| GLO-02 | Phase 5 | Complete |
+| GLO-03 | Phase 5 | Complete |
+| GLO-04 | Phase 5 | Complete |
+| GLO-05 | Phase 5 | Complete |
+| GLO-P1 | Phase 5 | Complete |
+| GLO-C1 | Phase 5 | Complete |
+| INT-04 | Phase 5 | Complete |
+| INT-05 | Phase 5 | Complete |
+| INT-06 | Phase 5 | Complete |
+| INT-07 | Phase 5 | Complete |
 
 **Coverage:**
 - v1 requirements: 42 total
