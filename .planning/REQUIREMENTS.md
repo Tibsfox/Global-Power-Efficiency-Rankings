@@ -24,31 +24,31 @@ Requirements for Learning Paths milestone. Each maps to roadmap phases.
 
 ### Individual Level (25 pathways)
 
-- [ ] **IND-01**: 5 cards × 5 pathways with learning path sections
+- [ ] **IND-01**: 5 cards x 5 pathways with learning path sections
 - [ ] **IND-02**: Emphasis on hands-on, kinesthetic learning resources
 - [ ] **IND-03**: Shorter timeline expectations (home/personal scale)
 
 ### Community Level (25 pathways)
 
-- [ ] **COM-01**: 5 cards × 5 pathways with learning path sections
+- [ ] **COM-01**: 5 cards x 5 pathways with learning path sections
 - [ ] **COM-02**: Emphasis on mission-driven, community impact projects
 - [ ] **COM-03**: Connector and collaborative learning styles
 
 ### State/Regional Level (25 pathways)
 
-- [ ] **STA-01**: 5 cards × 5 pathways with learning path sections
+- [ ] **STA-01**: 5 cards x 5 pathways with learning path sections
 - [ ] **STA-02**: Emphasis on regulatory/policy knowledge integration
 - [ ] **STA-03**: Professional certification context where relevant
 
 ### National Level (25 pathways)
 
-- [ ] **NAT-01**: 5 cards × 5 pathways with learning path sections
+- [ ] **NAT-01**: 5 cards x 5 pathways with learning path sections
 - [ ] **NAT-02**: Emphasis on systems-scale thinking and grid operations
 - [ ] **NAT-03**: Federal program and institutional knowledge context
 
 ### Global Level (25 pathways)
 
-- [ ] **GLO-01**: 5 cards × 5 pathways with learning path sections
+- [ ] **GLO-01**: 5 cards x 5 pathways with learning path sections
 - [ ] **GLO-02**: Emphasis on international frameworks and cross-border collaboration
 - [ ] **GLO-03**: Multi-stakeholder and diplomatic skill integration
 
@@ -88,40 +88,40 @@ Deferred to v1.3+:
 
 | Requirement | Phase | Status |
 |-------------|-------|--------|
-| LP-01 | All | Pending |
-| LP-02 | All | Pending |
-| LP-03 | All | Pending |
-| LP-04 | All | Pending |
-| LP-05 | All | Pending |
-| VAR-01 | All | Pending |
-| VAR-02 | All | Pending |
-| VAR-03 | All | Pending |
-| VAR-04 | All | Pending |
-| IND-01 | Phase 6 | Pending |
-| IND-02 | Phase 6 | Pending |
-| IND-03 | Phase 6 | Pending |
-| COM-01 | Phase 7 | Pending |
-| COM-02 | Phase 7 | Pending |
-| COM-03 | Phase 7 | Pending |
-| STA-01 | Phase 8 | Pending |
-| STA-02 | Phase 8 | Pending |
-| STA-03 | Phase 8 | Pending |
-| NAT-01 | Phase 9 | Pending |
-| NAT-02 | Phase 9 | Pending |
-| NAT-03 | Phase 9 | Pending |
-| GLO-01 | Phase 10 | Pending |
-| GLO-02 | Phase 10 | Pending |
-| GLO-03 | Phase 10 | Pending |
-| QA-01 | Phase 11 | Pending |
-| QA-02 | Phase 11 | Pending |
-| QA-03 | Phase 11 | Pending |
-| QA-04 | Phase 11 | Pending |
+| LP-01 | 6-10 | Pending |
+| LP-02 | 6-10 | Pending |
+| LP-03 | 6-10 | Pending |
+| LP-04 | 6-10 | Pending |
+| LP-05 | 6-10 | Pending |
+| VAR-01 | 6-10 | Pending |
+| VAR-02 | 6-10 | Pending |
+| VAR-03 | 6-10 | Pending |
+| VAR-04 | 6-10 | Pending |
+| IND-01 | 6 | Pending |
+| IND-02 | 6 | Pending |
+| IND-03 | 6 | Pending |
+| COM-01 | 7 | Pending |
+| COM-02 | 7 | Pending |
+| COM-03 | 7 | Pending |
+| STA-01 | 8 | Pending |
+| STA-02 | 8 | Pending |
+| STA-03 | 8 | Pending |
+| NAT-01 | 9 | Pending |
+| NAT-02 | 9 | Pending |
+| NAT-03 | 9 | Pending |
+| GLO-01 | 10 | Pending |
+| GLO-02 | 10 | Pending |
+| GLO-03 | 10 | Pending |
+| QA-01 | 11 | Pending |
+| QA-02 | 11 | Pending |
+| QA-03 | 11 | Pending |
+| QA-04 | 11 | Pending |
 
 **Coverage:**
 - v1.2 requirements: 27 total
 - Mapped to phases: 27
-- Unmapped: 0 ✓
+- Unmapped: 0
 
 ---
 *Requirements defined: 2026-01-29*
-*Last updated: 2026-01-29 after initial definition*
+*Last updated: 2026-01-29 after roadmap creation*
