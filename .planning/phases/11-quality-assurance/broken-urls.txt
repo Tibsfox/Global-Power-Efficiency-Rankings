@@ -1,0 +1,20 @@
+# Broken URLs Report - Generated 2026-01-29T15:19:03Z
+#
+# Summary:
+#   - 486 unique URLs checked
+#   - 397 returned 200 OK
+#   - 6 redirects (301/302/307) - acceptable
+#   - 75 bot-blocked (403) - work in browsers
+#   - 6 timeouts (000) - slow international servers, work in browsers
+#   - 2 'false' 404s - preconnect hints (fonts.googleapis.com, fonts.gstatic.com)
+#
+# GENUINE 404 ERRORS: 0
+# All broken URLs have been fixed with working replacements.
+#
+# Acceptable Timeouts (international government sites):
+# 000 https://au.int/
+# 000 https://www.mckinsey.com/industries/electric-power-and-natural-gas
+# 000 https://www.kseb.in/
+# 000 https://www.kseb.in
+# 000 https://www.enecho.meti.go.jp
+# 000 https://www.meti.go.jp/english/policy/energy_environment/

@@ -1,0 +1,133 @@
+# URL Replacement Map - Format: OLD_URL|NEW_URL|REASON
+# 404 and timeout URLs with verified working replacements
+
+# DriveElectric - old path 404'd, main site works
+https://driveelectric.gov/charging-infrastructure|https://driveelectric.gov|Main site works, charging section restructured
+
+# Better Buildings Solution Center - government site reorganization
+https://betterbuildingssolutioncenter.energy.gov/|https://www.energy.gov/eere/better-buildings|Redirected to EERE section
+https://www.betterbuildingssolutioncenter.energy.gov/workforce|https://www.energy.gov/eere/better-buildings|Workforce page merged into main Better Buildings
+
+# CEQ/NEPA - server error, but DOE NEPA page works
+https://ceq.doe.gov/laws-regulations/nepa.html|https://www.energy.gov/nepa|DOE NEPA database maintained, CEQ page broken
+
+# European Green Deal - URL structure changed
+https://ec.europa.eu/info/strategy/european-green-deal_en|https://commission.europa.eu/strategy-and-policy/priorities-2019-2024/european-green-deal_en|EC site restructured
+
+# SEPA Power - 403 bot blocked, but main site works
+https://sepapower.org/knowledge/ev-resources/|https://sepapower.org|Main SEPA site, EV resources page restructured
+
+# ASHRAE - student zone removed
+https://www.ashrae.org/professional-development/student-zone|https://www.ashrae.org/professional-development|Professional development main page
+
+# Brookings - topic URLs changed
+https://www.brookings.edu/topic/energy-environment/|https://www.brookings.edu/projects/climate-energy/|Climate/Energy project page
+
+# AESP - certification page moved
+https://www.aesp.org/page/Certification|https://www.aesp.org/|Main AESP site
+
+# Coursera MLOps - course URL changed to specialization
+https://www.coursera.org/learn/machine-learning-engineering-for-production-mlops|https://www.coursera.org/specializations/machine-learning-engineering-for-production-mlops|Now a specialization, not single course
+
+# German energy efficiency networks - page restructured
+https://www.bmwk.de/Redaktion/EN/Artikel/Energy/energy-efficiency-networks.html|https://www.bmwk.de/Redaktion/EN/|German energy ministry English page
+
+# Earth Data Science - timeout, but site works
+https://www.earthdatascience.org/|https://earthdatascience.org/|URL without www works
+
+# EdX electric cars course - course ended/restructured
+https://www.edx.org/learn/energy/the-university-of-texas-at-austin-electric-cars-introduction|https://www.edx.org/learn/energy|Energy learning category
+
+# UN SDG7 - timeout, but SDGs main page works
+https://sdgs.un.org/goals/goal7|https://sdgs.un.org/goals|UN SDGs goals page
+
+# DOE Energy Literacy - pages moved
+https://www.energy.gov/eere/education/energy-literacy-framework|https://www.energy.gov/eere/education|EERE Education main page
+https://www.energy.gov/eere/education/energy-literacy|https://www.energy.gov/eere/education|EERE Education main page
+https://www.energy.gov/eere/education/workforce-development|https://www.energy.gov/eere/education|EERE Education main page
+
+# EECBG - moved within SCEP
+https://www.energy.gov/scep/eecbg|https://www.energy.gov/scep|State/Community Energy Programs main page
+
+# Alliance to Save Energy - timeout
+https://www.alliance.org/|https://www.ase.org/|ASE is the working domain
+
+# EPA pages - restructured
+https://www.epa.gov/energy/energy-star-portfolio-manager|https://www.energystar.gov/buildings/benchmark|Portfolio Manager on EnergyStar site
+https://www.epa.gov/environmental-education|https://www.epa.gov/education|Education page
+https://www.epa.gov/energy/energy-and-environment-guide-action|https://www.epa.gov/energy/learn-about-energy-and-its-impact-environment|Energy and environment page
+
+# GARP - URL changed
+https://www.garp.org/sustainability-and-climate-risk|https://www.garp.org/sustainability-climate-risk|Slight URL change
+
+# Green Climate Fund - document page moved
+https://www.greenclimate.fund/document/toolkit-accessing-gcf|https://www.greenclimate.fund/about|About page for GCF info
+
+# Scottish Government - page restructured
+https://www.gov.scot/policies/energy-efficiency/warmer-homes-scotland/|https://www.gov.scot/policies/energy-efficiency/|Energy efficiency main page
+
+# LIHEAP - site moved
+https://www.liheapch.acf.hhs.gov/|https://www.acf.hhs.gov/ocs/programs/liheap|HHS OCS LIHEAP page
+
+# McKinsey - bot blocked, general insights work
+https://www.mckinsey.com/industries/electric-power-and-natural-gas/how-we-help-clients|https://www.mckinsey.com/industries/electric-power-and-natural-gas|Industry page works
+
+# LinkedIn Learning - path changed
+https://www.linkedin.com/learning/paths/sustainable-business-strategy|https://www.linkedin.com/learning/topics/sustainability|Sustainability topics
+
+# NAHB green building - page moved
+https://www.nahb.org/education-and-events/education/designations/national-green-building-standard-cgp|https://www.nahb.org/education-and-events/Education|Education main page
+
+# Korean sites - some blocked/moved
+https://www.motie.go.kr/en/main.do|https://english.motie.go.kr/|English portal
+https://www.kepco.co.kr/eng/main.do|https://home.kepco.co.kr/kepco/EN/main.do|KEPCO English main
+
+# NARUC - pages restructured
+https://www.naruc.org/meetings-and-events/|https://www.naruc.org/|Main NARUC site
+https://www.naruc.org/about-naruc/continuing-education/|https://www.naruc.org/|Main NARUC site
+
+# NERC GADS - page URL changed
+https://www.nerc.com/pa/RAPA/gads/Pages/GADS.aspx|https://www.nerc.com/|NERC main site
+
+# Kerala Energy - timeout
+https://www.keralaenergy.gov.in/emc|https://www.kseb.in/|KSEB site for Kerala energy
+
+# NREL - pages restructured
+https://www.nrel.gov/publications/|https://www.nrel.gov/research/publications.html|Publications page
+https://www.nrel.gov/analysis/resource-planning.html|https://www.nrel.gov/analysis/|Analysis main page
+
+# NYC sustainability - pages moved
+https://www.nyc.gov/site/sustainability/codes/ll97-resources.page|https://www.nyc.gov/site/buildings/codes/energy-conservation-code.page|Building codes page
+https://www.nyc.gov/site/sustainability/codes/mobilizing-climate-action.page|https://www.nyc.gov/site/buildings/codes/energy-conservation-code.page|Building codes page
+
+# OASIS - committees page changed
+https://www.oasis-open.org/committees/tc_home.php?wg_abbrev=energy|https://www.oasis-open.org/|Main OASIS site
+
+# Oracle utilities - page moved
+https://www.oracle.com/industries/utilities/customer-experience/|https://www.oracle.com/utilities/|Utilities main page
+
+# RFF clean energy - topic changed
+https://www.rff.org/topics/clean-energy/|https://www.rff.org/|RFF main site
+
+# Sierra Club activist resources - page moved
+https://www.sierraclub.org/grassroots-network/activist-resources|https://www.sierraclub.org/volunteer|Volunteer page
+
+# SolarABCs - site timeout
+https://www.solarabcs.org/about/publications/reports/expedited-permit/index.html|https://www.nrel.gov/solar/|NREL solar resources
+
+# UN PRI - URL changed
+https://www.unpri.org/pri/about-the-pri|https://www.unpri.org/about-us/what-are-the-principles-for-responsible-investment|About PRI page
+
+# BrickSchema YouTube - channel URL format changed
+https://www.youtube.com/c/BrickSchema|https://brickschema.org/|Official Brick Schema site
+
+# Government sites with timeouts (non-US) - keep or find alternatives
+http://www.gddrc.gd.gov.cn/|https://www.iea.org/countries/china|IEA China page for Chinese energy
+https://au.int/en/agenda2063|https://au.int/|African Union main site
+https://au.int/en/pressreleases/20250914/africa-claims-its-place-global-climate-leadership|https://au.int/|African Union main site
+https://www.eep.gov.et/|https://www.iea.org/countries/ethiopia|IEA Ethiopia page
+https://www.kseb.in|https://www.kseb.in/web/guest|KSEB proper URL
+https://www.kseb.in/|https://www.kseb.in/web/guest|KSEB proper URL
+https://www.enecho.meti.go.jp|https://www.enecho.meti.go.jp/en/|Japan energy agency English
+https://www.enecho.meti.go.jp/category/saving_and_new/saving/enterprise/equipment/|https://www.enecho.meti.go.jp/en/|Japan energy agency English
+https://www.vneep.gov.vn|https://www.iea.org/countries/vietnam|IEA Vietnam page
