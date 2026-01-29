@@ -5,7 +5,7 @@
 See: .planning/PROJECT.md (updated 2026-01-29)
 
 **Core value:** Demonstrate practical, replicable ways that real people use AI tools to solve energy efficiency problems—with citable examples, actionable projects, and career pathways
-**Current focus:** v1.2 Learning Paths — Phase 8 Complete
+**Current focus:** v1.2 Learning Paths — Phase 8 Complete, Ready for Phase 9
 
 ## Current Position
 

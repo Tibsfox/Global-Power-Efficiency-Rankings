@@ -30,15 +30,15 @@ Requirements for Learning Paths milestone. Each maps to roadmap phases.
 
 ### Community Level (25 pathways)
 
-- [ ] **COM-01**: 5 cards x 5 pathways with learning path sections
-- [ ] **COM-02**: Emphasis on mission-driven, community impact projects
-- [ ] **COM-03**: Connector and collaborative learning styles
+- [x] **COM-01**: 5 cards x 5 pathways with learning path sections
+- [x] **COM-02**: Emphasis on mission-driven, community impact projects
+- [x] **COM-03**: Connector and collaborative learning styles
 
 ### State/Regional Level (25 pathways)
 
-- [ ] **STA-01**: 5 cards x 5 pathways with learning path sections
-- [ ] **STA-02**: Emphasis on regulatory/policy knowledge integration
-- [ ] **STA-03**: Professional certification context where relevant
+- [x] **STA-01**: 5 cards x 5 pathways with learning path sections
+- [x] **STA-02**: Emphasis on regulatory/policy knowledge integration
+- [x] **STA-03**: Professional certification context where relevant
 
 ### National Level (25 pathways)
 
@@ -100,12 +100,12 @@ Deferred to v1.3+:
 | IND-01 | 6 | Complete |
 | IND-02 | 6 | Complete |
 | IND-03 | 6 | Complete |
-| COM-01 | 7 | Pending |
-| COM-02 | 7 | Pending |
-| COM-03 | 7 | Pending |
-| STA-01 | 8 | Pending |
-| STA-02 | 8 | Pending |
-| STA-03 | 8 | Pending |
+| COM-01 | 7 | Complete |
+| COM-02 | 7 | Complete |
+| COM-03 | 7 | Complete |
+| STA-01 | 8 | Complete |
+| STA-02 | 8 | Complete |
+| STA-03 | 8 | Complete |
 | NAT-01 | 9 | Pending |
 | NAT-02 | 9 | Pending |
 | NAT-03 | 9 | Pending |

@@ -14,7 +14,7 @@ This milestone adds personalized learning paths with AI prompts and self-study r
 
 - [x] **Phase 6: Individual Level** - 25 learning paths with sprint-based, hands-on focus ✓
 - [x] **Phase 7: Community Level** - 26 learning paths with mission-driven, collaborative focus ✓
-- [ ] **Phase 8: State/Regional Level** - 25 learning paths with regulatory/certification focus
+- [x] **Phase 8: State/Regional Level** - 25 learning paths with regulatory/certification focus ✓
 - [ ] **Phase 9: National Level** - 25 learning paths with systems-scale, federal focus
 - [ ] **Phase 10: Global Level** - 25 learning paths with international frameworks focus
 - [ ] **Phase 11: Quality Assurance** - URL validation, sameness audit, final review
@@ -72,11 +72,11 @@ Plans:
 **Plans**: 5 plans
 
 Plans:
-- [ ] 08-01-PLAN.md — Add learning paths to AI Policy Modeling section (5 pathways)
-- [ ] 08-02-PLAN.md — Add learning paths to AI Program Targeting section (5 pathways)
-- [ ] 08-03-PLAN.md — Add learning paths to AI Measurement & Verification section (5 pathways)
-- [ ] 08-04-PLAN.md — Add learning paths to AI Grid Forecasting section (5 pathways)
-- [ ] 08-05-PLAN.md — Add learning paths to AI Permitting section (5 pathways)
+- [x] 08-01-PLAN.md — Add learning paths to AI Policy Modeling section (5 pathways)
+- [x] 08-02-PLAN.md — Add learning paths to AI Program Targeting section (5 pathways)
+- [x] 08-03-PLAN.md — Add learning paths to AI Measurement & Verification section (5 pathways)
+- [x] 08-04-PLAN.md — Add learning paths to AI Grid Forecasting section (5 pathways)
+- [x] 08-05-PLAN.md — Add learning paths to AI Permitting section (5 pathways)
 
 ### Phase 9: National Level
 **Goal**: Career changers at the National level can access AI prompts and projects emphasizing systems-scale thinking and federal programs
@@ -130,7 +130,7 @@ Plans:
 |-------|-----------|----------------|--------|-----------|
 | 6. Individual Level | v1.2 | 5/5 | ✓ Complete | 2026-01-29 |
 | 7. Community Level | v1.2 | 5/5 | ✓ Complete | 2026-01-29 |
-| 8. State/Regional Level | v1.2 | 0/5 | Planned | - |
+| 8. State/Regional Level | v1.2 | 5/5 | ✓ Complete | 2026-01-29 |
 | 9. National Level | v1.2 | 0/TBD | Not started | - |
 | 10. Global Level | v1.2 | 0/TBD | Not started | - |
 | 11. Quality Assurance | v1.2 | 0/TBD | Not started | - |
