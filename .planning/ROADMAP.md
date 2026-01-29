@@ -107,10 +107,14 @@ Plans:
   3. Multi-stakeholder and diplomatic skill development emphasized
   4. Prompt patterns and presentation style distinctly visionary/strategic
   5. Resources include multilateral organization materials and cross-border collaboration guidance
-**Plans**: TBD
+**Plans**: 5 plans
 
 Plans:
-- [ ] 10-01: TBD
+- [ ] 10-01-PLAN.md — Add learning paths to AI Multi-Language Policy Analysis section (5 pathways)
+- [ ] 10-02-PLAN.md — Add learning paths to AI Satellite-Based Efficiency Monitoring section (5 pathways)
+- [ ] 10-03-PLAN.md — Add learning paths to AI Knowledge Sharing Platforms section (5 pathways)
+- [ ] 10-04-PLAN.md — Add learning paths to AI Supply Chain Emissions Transparency section (5 pathways)
+- [ ] 10-05-PLAN.md — Add learning paths to AI Climate Finance Allocation section (5 pathways)
 
 ### Phase 11: Quality Assurance
 **Goal**: All 125 learning paths validated for link integrity, content variety, accuracy, and accessibility
@@ -136,7 +140,7 @@ Plans:
 | 7. Community Level | v1.2 | 5/5 | ✓ Complete | 2026-01-29 |
 | 8. State/Regional Level | v1.2 | 5/5 | ✓ Complete | 2026-01-29 |
 | 9. National Level | v1.2 | 5/5 | ✓ Complete | 2026-01-29 |
-| 10. Global Level | v1.2 | 0/TBD | Not started | - |
+| 10. Global Level | v1.2 | 0/5 | Ready for execution | - |
 | 11. Quality Assurance | v1.2 | 0/TBD | Not started | - |
 
 ---
