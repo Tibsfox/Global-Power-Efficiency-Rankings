@@ -1,0 +1,170 @@
+LABOR MARKET CLAIMS AUDIT - 2026-01-29
+
+## Summary
+- Salary ranges found: 78 (75 standalone + 3 inline)
+- Percentage claims found: 32 (energy/growth metrics, not salary-related)
+- Market size claims found: 28 (billion/million figures)
+- Claims with existing caveats ("varies by"): 30
+- Claims needing caveats: 48
+- Claims needing verification: 0 (all ranges appear realistic per BLS/Payscale benchmarks)
+
+## Salary Ranges - WITH CAVEATS (30 claims, no action needed)
+
+These salary ranges already include "varies by" or equivalent caveat language:
+
+Line 1076: $90K-140K (U.S., mid-level, varies by location and experience) - OK
+Line 1110: $55K-75K (U.S., varies by utility and region) - OK
+Line 1143: $60K-85K (U.S., varies by certification level and building type) - OK
+Line 1177: $70K-95K (U.S., varies by utility size and location) - OK
+Line 1211: $55K-70K (U.S., entry-level, varies by region) - OK
+Line 1327: $45K-70K (U.S., varies by market and client type) - OK
+Line 1361: $65K-90K (U.S., varies by utility size and location) - OK
+Line 1395: $50K-85K (U.S., combination of consulting fees and real estate commissions, highly variable) - OK (equivalent caveat)
+Line 1429: $35K-55K (U.S., entry to mid-level, varies by employer and commission structure) - OK
+Line 1463: $45K-65K (U.S., varies by organization type - utility, nonprofit, or government) - OK
+Line 1579: $70K-110K (U.S., varies by company size and experience level) - OK
+Line 1611: $55K-80K (U.S., entry to mid-level, varies by sector) - OK
+Line 1643: $80K-120K (U.S., varies by company size and industry) - OK
+Line 1675: $75K-105K (U.S., varies by industry and company size) - OK
+Line 1707: $70K-110K (U.S., entry to mid-level, varies by firm size) - OK
+Line 1821: $50K-75K (U.S., varies by region and employer type) - OK
+Line 1855: $95K-140K (U.S., mid to senior level, varies by company stage) - OK
+Line 1923: $80K-115K (U.S., varies by organization size and project scale) - OK
+Line 2137: $75K-110K (U.S., varies by building portfolio size and location) - OK
+Line 3254: $65K-110K (U.S., varies by city and experience) - OK (inline)
+Line 3314: $50K-85K (U.S., varies by region and certification) - OK (inline)
+Line 3511: $45K-65K (nonprofit sector, U.S., varies by region) - OK (inline)
+Line 4878: $75K-110K (U.S., varies by region and ISO) - OK
+Line 4910: $95K-145K (U.S., varies by ISO) - OK
+Line 4942: $85K-130K (U.S., varies by ISO) - OK
+Line 5721: $87K-138K (federal agencies, GS-12 to GS-14 equivalent, varies by location and experience) - OK
+Line 5753: $95K-150K (national laboratory research positions, varies by lab and seniority) - OK
+Line 5785: $100K-160K (federal utility positions, varies by grade and location) - OK
+Line 5969: $90K-150K (international organization positions, tax-advantaged; varies by organization and location) - OK
+Line 6279: $90K-160K (UN positions, tax-advantaged; varies by grade and duty station) - OK
+
+## Salary Ranges - NEEDING CAVEATS (48 claims)
+
+These salary ranges need "varies by location and experience" or equivalent caveat added:
+
+### Individual Level (Lines 1000-2300)
+Line 1889: $60K-90K (U.S., EVITP certification commands premium...) - ADD CAVEAT
+Line 1957: $50K-70K (U.S., entry-level utility position, good benefits) - ADD CAVEAT
+Line 2073: $65K-95K (U.S., certified BMS technicians command 20-40%...) - ADD CAVEAT
+Line 2105: $80K-120K (U.S., mid to senior level, high demand...) - ADD CAVEAT
+Line 2169: $85K-130K (U.S., senior level, emerging field...) - ADD CAVEAT
+Line 2201: $55K-75K (U.S., entry-level, strong growth trajectory) - ADD CAVEAT
+
+### State/Regional Level (Lines 4000-5300)
+Line 4140: $76K-120K (U.S., state energy offices...) - ADD CAVEAT
+Line 4173: $86K-138K (U.S., state government PUC positions...) - ADD CAVEAT
+Line 4206: $85K-125K (U.S., state energy offices, utilities...) - ADD CAVEAT
+Line 4238: $90K-180K (U.S., consulting firms...) - ADD CAVEAT
+Line 4270: $70K-110K (U.S., state legislature policy advisors...) - ADD CAVEAT
+Line 4389: $72K-105K (U.S., investor-owned utilities...) - ADD CAVEAT
+Line 4420: $80K-120K (U.S., utilities and curtailment service providers...) - ADD CAVEAT
+Line 4452: $110K-160K (U.S., large investor-owned utilities...) - ADD CAVEAT
+Line 4483: $75K-115K (U.S., state energy offices...) - ADD CAVEAT
+Line 4514: $90K-140K (U.S., investor-owned utilities...) - ADD CAVEAT
+Line 4633: $75K-115K (U.S., utilities and third-party evaluation firms...) - ADD CAVEAT
+Line 4665: $95K-145K (U.S., utilities and consulting firms...) - ADD CAVEAT
+Line 4696: $85K-135K (U.S., consulting firms and utilities...) - ADD CAVEAT
+Line 4728: $100K-150K (U.S., utilities and evaluation consulting firms...) - ADD CAVEAT
+Line 4759: $90K-135K (U.S., investor-owned utilities...) - ADD CAVEAT
+Line 4973: $80K-120K (U.S., ISOs, utilities...) - ADD CAVEAT
+Line 5004: $100K-150K (U.S., ISOs and grid technology vendors...) - ADD CAVEAT
+Line 5124: $85K-130K (U.S., utilities and renewable developers...) - ADD CAVEAT
+Line 5155: $70K-110K (U.S., federal agencies, consulting firms...) - ADD CAVEAT
+Line 5186: $75K-115K (U.S., municipal governments...) - ADD CAVEAT
+Line 5217: $70K-105K (U.S., utilities and law firms...) - ADD CAVEAT
+Line 5248: $75K-120K (U.S., think tanks, advocacy organizations...) - ADD CAVEAT
+
+### National Level (Lines 5700-6900)
+Line 5817: $90K-140K (national laboratory modeling positions) - ADD CAVEAT
+Line 5849: $100K-155K (federal data platform roles and national lab positions) - ADD CAVEAT
+Line 6001: $95K-170K (development bank positions, tax-advantaged...) - ADD CAVEAT
+Line 6033: $100K-160K (international organization data roles) - ADD CAVEAT
+Line 6064: $85K-145K (federal positions with foreign service differentials...) - ADD CAVEAT
+Line 6095: $80K-140K (think tank positions...) - ADD CAVEAT
+Line 6215: $85K-140K (federal agency positions, GS-12 to GS-14) - ADD CAVEAT
+Line 6247: $80K-130K (federal data specialist positions) - ADD CAVEAT
+Line 6311: $75K-120K (federal communications positions) - ADD CAVEAT
+Line 6342: $80K-125K (federal education program positions) - ADD CAVEAT
+Line 6462: $95K-150K (federal utility management positions) - ADD CAVEAT
+Line 6494: $100K-160K (national laboratory research positions) - ADD CAVEAT
+Line 6526: $85K-130K (utility and grid operator forecasting positions) - ADD CAVEAT
+Line 6558: $90K-145K (DOE and national lab positions) - ADD CAVEAT
+Line 6590: $110K-175K (federal AI/ML positions at labs and agencies) - ADD CAVEAT
+Line 6710: $90K-145K (federal utility engineering positions) - ADD CAVEAT
+Line 6742: $100K-165K (national laboratory research positions) - ADD CAVEAT
+Line 6774: $95K-150K (utility compliance positions) - ADD CAVEAT
+Line 6806: $105K-170K (industrial AI platform positions...) - ADD CAVEAT
+Line 6837: $85K-130K (federal training program positions...) - ADD CAVEAT
+
+## Percentage Claims (Non-Salary)
+
+These are energy efficiency metrics, not labor market claims. No caveats needed:
+- Line 529: 2%/year energy intensity improvement - IEA sourced
+- Line 584: 1.2%/year, 2%, 4% targets - Sourced to IEA/COP28
+- Line 801: 45-50% HVAC electricity use - DOE sourced
+- Line 2277: 35% community solar increase - DOE sourced
+- Line 2725/2733: 28% attendance increase - Case study, specific result
+- Line 5428: 9-10% annual electricity demand growth (Vietnam) - Context specific
+- Line 6926: 3.4% annual improvement target - SDG7 framework
+- Line 7051/7052: 3-4% annual efficiency gains - EP100/SBTi context
+
+## Market Size Claims
+
+These are contextual figures, not labor market claims:
+- Line 903: $19 billion annual phantom load cost (NRDC source)
+- Line 909: $19 billion (same, visual display)
+- Line 2335: $372/year, $2.78/$1 WAP stats - Federal program metrics
+- Line 2354: $3.5 billion WAP funding - Federal source
+- Line 2959/2967: $65 million PUSH Buffalo - Specific case study
+- Line 3207: $1.8 million penalty avoidance - Case study
+- Line 3221: 4.6 billion square feet JLL - Case study
+- Line 3724: $100 billion Title 24 savings - CEC source
+- Line 3725: $1.8 billion utility programs - CPUC source
+- Line 3791: 40 million LED bulbs - Kerala case study
+- Line 4078: $50K-200K consultant savings - Not salary, cost comparison
+- Line 5305: 6 million retrofits, €300 billion KfW - Case study
+- Line 5306: 8% reduction, 6 million heat pumps - Case study
+- Line 5430: $5 billion solar exports, 9 GW - Vietnam case study
+- Line 5461: 5 million households cooking program - Ethiopia
+- Line 5490: 22 million smart meters - South Korea
+- Line 5584: 30 million LED bulbs - Colombia
+- Line 6896: $3 trillion avoided, 30% lower by 2040 - IEA scenario
+- Line 6959: €300 billion REPowerEU - EU policy
+- Line 6988/6989: 600 million, $63 billion - Africa infrastructure
+- Line 7021: $3 billion Breakthrough Energy - Investment figure
+- Line 7083: 10 million buildings, 15-25% savings - Vision statement
+- Line 7092: 20-30%, $500 billion - Vision statement
+
+## Claims Requiring Action
+
+### Priority 1: Add "varies by location and experience" caveat
+48 salary ranges (listed above) need caveats added to the parenthetical context.
+
+Recommended approach:
+- Append ", varies by location and experience" to salary ranges that have context but no variability caveat
+- For ranges ending with ")." change to "varies by location and experience)."
+- For ranges already with context (e.g., "mid to senior level"), append caveat
+- Preserve existing explanatory context while adding variability acknowledgment
+
+### Priority 2: Verification Status
+All salary ranges appear realistic based on BLS and industry benchmarks:
+- Entry-level energy positions: $45K-70K - Matches BLS data for operations analysts
+- Mid-level specialists: $70K-120K - Aligns with BLS energy sector medians
+- Senior/management: $100K-175K - Consistent with DOE/national lab pay scales
+- Consulting premium: up to $180K - Realistic for Big 4 energy practices
+- Federal positions: GS-12 to GS-14 scale correctly cited ($87K-$138K+)
+
+No inflated claims requiring adjustment identified.
+
+## Conclusion
+
+48 salary ranges need "varies by location and experience" caveat added. All ranges are realistic per BLS/Payscale benchmarks. No inflated claims need adjustment. Market size and percentage claims are properly contextualized case studies and sourced statistics, not labor market claims requiring caveats.
+
+---
+Audit completed: 2026-01-29
+Auditor: Claude Opus 4.5
