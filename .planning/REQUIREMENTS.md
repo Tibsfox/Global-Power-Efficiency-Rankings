@@ -61,19 +61,19 @@ Requirements for this milestone. Each maps to roadmap phases.
 ### National Level (5 cards)
 
 **Existing Cards:**
-- [ ] **NAT-01**: Add 3 case studies to Integrated Energy System Planning card
-- [ ] **NAT-02**: Add 3 case studies to International Benchmarking card
-- [ ] **NAT-03**: Add 3 case studies to Climate Commitment Tracking card
+- [x] **NAT-01**: Add 3 case studies to Integrated Energy System Planning card
+- [x] **NAT-02**: Add 3 case studies to International Benchmarking card
+- [x] **NAT-03**: Add 3 case studies to Climate Commitment Tracking card
 
 **New Cards:**
-- [ ] **NAT-04**: Create AI-Powered National Load Forecasting card with 3 case studies
-- [ ] **NAT-05**: Create AI-Driven Infrastructure Predictive Maintenance card with 3 case studies
+- [x] **NAT-04**: Create AI-Powered National Load Forecasting card with 3 case studies
+- [x] **NAT-05**: Create AI-Driven Infrastructure Predictive Maintenance card with 3 case studies
 
 **Project Ideas:**
-- [ ] **NAT-P1**: Add DIY + commercial project ideas to all 5 National cards
+- [x] **NAT-P1**: Add DIY + commercial project ideas to all 5 National cards
 
 **Career Transition:**
-- [ ] **NAT-C1**: Add 5 career transition suggestions with resources to all 5 National cards
+- [x] **NAT-C1**: Add 5 career transition suggestions with resources to all 5 National cards
 
 ### Global Level (5 cards)
 
@@ -199,13 +199,13 @@ Each card gets 5 suggestions:
 | REG-05 | Phase 3 | Complete |
 | REG-P1 | Phase 3 | Complete |
 | REG-C1 | Phase 3 | Complete |
-| NAT-01 | Phase 4 | Pending |
-| NAT-02 | Phase 4 | Pending |
-| NAT-03 | Phase 4 | Pending |
-| NAT-04 | Phase 4 | Pending |
-| NAT-05 | Phase 4 | Pending |
-| NAT-P1 | Phase 4 | Pending |
-| NAT-C1 | Phase 4 | Pending |
+| NAT-01 | Phase 4 | Complete |
+| NAT-02 | Phase 4 | Complete |
+| NAT-03 | Phase 4 | Complete |
+| NAT-04 | Phase 4 | Complete |
+| NAT-05 | Phase 4 | Complete |
+| NAT-P1 | Phase 4 | Complete |
+| NAT-C1 | Phase 4 | Complete |
 | GLO-01 | Phase 5 | Pending |
 | GLO-02 | Phase 5 | Pending |
 | GLO-03 | Phase 5 | Pending |
