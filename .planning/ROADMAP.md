@@ -45,10 +45,10 @@ Plans:
   2. Each card shows DIY project ideas for community organizations and commercial concepts for the space
   3. Each card presents 5 career transition suggestions focused on community energy work
   4. New cards (Building Energy Benchmarking, Energy Burden Identification) integrate with existing 3 cards
-**Plans**: TBD
+**Plans**: 1 plan
 
 Plans:
-- [ ] 02-01: Implement Community-level cards with all content types
+- [ ] 02-01-PLAN.md - Implement Community-level cards with all content types (5 cards, 15 case studies, 25 career paths)
 
 ### Phase 3: State/Regional Level
 **Goal**: Readers can explore 5 AI applications for state/regional energy policy and grid management, each with real-world examples, actionable projects, and career pathways
